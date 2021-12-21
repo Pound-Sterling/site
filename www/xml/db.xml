@@ -1,0 +1,2083 @@
+<yml_catalog date="2021-07-25 15:32">
+    <shop>
+        <name>KIRS - Сумки, рюкзаки, портфели, клатчи, наручные часы оптом и в розницу</name>
+        <company>KIRS - Сумки, рюкзаки, портфели, клатчи, наручные часы оптом и в розницу</company>
+        <url>https://kirs.com.ua/</url>
+        <currencies>
+            <currency id="USD" rate="CB" />
+            <currency id="RUR" rate="CB" />
+            <currency id="UAH" rate="1" />
+            <currency id="BYN" rate="CB" />
+            <currency id="KZT" rate="CB" />
+            <currency id="EUR" rate="CB" />
+        </currencies>
+        <categories>
+            <category id="43986659" parentId="21050128">Мужские городские рюкзаки</category>
+            <category id="21050128">Спортивные сумки и рюкзаки</category>
+        </categories>
+        <local_delivery_cost>65.00</local_delivery_cost>
+        <offers>
+            <offer id="576226053" available="true">
+                <url>https://kirs.com.ua/p576226053-modnyj-muzhskoj-gorodskoj.html</url>
+                <oldprice>680</oldprice>
+                <price>599</price>
+                <currencyId>UAH</currencyId>
+                <categoryId>43986659</categoryId>
+                <picture>https://images.ua.prom.st/2318566924_modnyj-muzhskoj-gorodskoj.jpg</picture>
+                <picture>https://images.ua.prom.st/2318566919_modnyj-muzhskoj-gorodskoj.jpg</picture>
+                <picture>https://images.ua.prom.st/2318566918_modnyj-muzhskoj-gorodskoj.jpg</picture>
+                <picture>https://images.ua.prom.st/2318566921_modnyj-muzhskoj-gorodskoj.jpg</picture>
+                <picture>https://images.ua.prom.st/2318566923_modnyj-muzhskoj-gorodskoj.jpg</picture>
+                <picture>https://images.ua.prom.st/2318566922_modnyj-muzhskoj-gorodskoj.jpg</picture>
+                <picture>https://images.ua.prom.st/2318566925_modnyj-muzhskoj-gorodskoj.jpg</picture>
+                <picture>https://images.ua.prom.st/2318566926_modnyj-muzhskoj-gorodskoj.jpg</picture>
+                <picture>https://images.ua.prom.st/2318566927_modnyj-muzhskoj-gorodskoj.jpg</picture>
+                <picture>https://images.ua.prom.st/2318566928_modnyj-muzhskoj-gorodskoj.jpg</picture>
+                <pickup>false</pickup>
+                <delivery>true</delivery>
+                <name>Модный мужской городской рюкзак</name>
+                <vendorCode>245</vendorCode>
+                <country_of_origin>Китай</country_of_origin>
+                <description> Модный мужской городской рюкзак Материал: Плотная и высококачественная ПУ кожа
+                    (полиуретан) – это высокосортный продукт, изготовленный по особым технологиям, своими свойствами по
+                    качеству не уступающий натуральной коже Есть отделение для ноутбука (вмещает стандартный ноутбук
+                    диагональю до 15,6 дюйма включительно) В наличии цвета: черный/коричневый; Высота: 45 см; Ширина: 30
+                    см; Глубина: 15 см; Если у Вас остались какие-либо вопросы, то свяжитесь с нами или оставьте свои
+                    контакты и мы сами свяжемся с Вами и уточним все детали! Пожалуйста, перед оформлением заказа,
+                    прочитайте внимательно условия доставки и оплаты и ознакомьтесь с тарифами на доставку в разделе
+                    "Доставка и оплата" </description>
+                <param name="Цвет">Черный</param>
+                <param name="Состояние">Новое</param>
+                <param name="Глубина" unit="см">15</param>
+                <param name="Высота" unit="см">45</param>
+                <param name="Ширина" unit="см">30</param>
+                <param name="Узоры и принты">Без узоров и принтов</param>
+                <param name="Материал" unit="">Экокожа</param>
+                <param name="Пол" unit="">Унисекс</param>
+                <param name="Тип" unit="">Рюкзак</param>
+                <param name="Возрастная группа" unit="">Взрослая</param>
+                <param name="Вес" unit="">700</param>
+                <param name="Форм-фактор" unit="">Панель (Накладка на корпус)</param>
+            </offer>
+            <!--  -->
+            <offer id="590242495" available="true" group_id="715136012">
+                <url>https://kirs.com.ua/p590242495-bolshoj-muzhskoj-ryukzak.html</url>
+                <oldprice>800</oldprice>
+                <price>599</price>
+                <currencyId>UAH</currencyId>
+                <categoryId>43986659</categoryId>
+                <picture>https://images.ua.prom.st/921971525_bolshoj-muzhskoj-ryukzak.jpg</picture>
+                <picture>https://images.ua.prom.st/921971527_bolshoj-muzhskoj-ryukzak.jpg</picture>
+                <picture>https://images.ua.prom.st/921971507_bolshoj-muzhskoj-ryukzak.jpg</picture>
+                <picture>https://images.ua.prom.st/921971510_bolshoj-muzhskoj-ryukzak.jpg</picture>
+                <picture>https://images.ua.prom.st/947943654_bolshoj-muzhskoj-ryukzak.jpg</picture>
+                <picture>https://images.ua.prom.st/947943655_bolshoj-muzhskoj-ryukzak.jpg</picture>
+                <picture>https://images.ua.prom.st/947943656_bolshoj-muzhskoj-ryukzak.jpg</picture>
+                <picture>https://images.ua.prom.st/947943657_bolshoj-muzhskoj-ryukzak.jpg</picture>
+                <picture>https://images.ua.prom.st/1431770924_bolshoj-muzhskoj-ryukzak.jpg</picture>
+                <picture>https://images.ua.prom.st/1431770468_bolshoj-muzhskoj-ryukzak.jpg</picture>
+                <pickup>false</pickup>
+                <delivery>true</delivery>
+                <name>Большой мужской рюкзак кожа ПУ + подарок визитница</name>
+                <vendorCode>245В</vendorCode>
+                <description> Большой мужской рюкзак кожа ПУ + подарок визитница Характеристики: Материал: Плотная и
+                    высококачественная ПУ кожа (полиуретан) – это высокосортный продукт, изготовленный по особым
+                    технологиям, своими свойствами по качеству не уступающий натуральной коже Есть отделение для
+                    ноутбука (вмещает стандартный ноутбук диагональю до 15,6 дюйма включительно) Высота: 45 см; Ширина:
+                    30 см; Глубина: 15 см; Достоинства: Широкие и плотные плечевые лямки; Морозостойкость (не лопается и
+                    не трескается на морозе); Не имеет постороннего запаха (что существенно отличает данный материал от
+                    дешевого кожзама); Тактильно и визуально материал очень похож на натуральную кожу (имеет богатый
+                    внешний вид); Мягкий и эластичный материал (хорошо выдерживает нагрузку); Товар полностью
+                    соответствует фото, при необходимости отправим Вам живые фото товара на Viber. ПОДАРОК Оформите
+                    заказ прямо сейчас и гарантированно получите ПОДАРОК Качественная визитница - кардхолдер на 20 карт
+                    (цвет на выбор). Спешите, количество подарочного товара ограниченно. Отправка в день заказа Отправка
+                    с г. Днепр, в большинство городов Украины доставка 1 день, сегодня заказали - завтра получили
+                    (подробнее уточняйте у менеджера при оформлении заказа) Прямые поставки с фабрик Работаем на прямую
+                    с проверенными фабриками, поэтому Вы получаете товар по самой выгодной цене на рынке Украины.
+                    Гарантия качества Гарантируем возврат или обмен товара в кратчайшие сроки, если Вас что-либо не
+                    устроит. Оплата при получении Отправляем наложенным платежом (оплата при получении), Вы оплачиваете
+                    товар после осмотра в отделении Новой Почты или Укрпочты. </description>
+                <param name="Цвет">Коричневый</param>
+                <param name="Пол">Мужской</param>
+                <param name="Тип">Городской</param>
+                <param name="Материал">Искусственная кожа</param>
+                <param name="Глубина" unit="см">15</param>
+                <param name="Высота" unit="см">45</param>
+                <param name="Ширина" unit="см">30</param>
+                <param name="Вес" unit="г">700</param>
+                <param name="Состояние">Новое</param>
+                <param name="Возрастная группа" unit="">Универсальный</param>
+            </offer>
+            <!--  -->
+            <offer id="602573378" available="true" group_id="715136012">
+                <url>https://kirs.com.ua/p602573378-bolshoj-muzhskoj-ryukzak.html</url>
+                <oldprice>800</oldprice>
+                <price>599</price>
+                <currencyId>UAH</currencyId>
+                <categoryId>43986659</categoryId>
+                <picture>https://images.ua.prom.st/947944347_bolshoj-muzhskoj-ryukzak.jpg</picture>
+                <picture>https://images.ua.prom.st/947944348_bolshoj-muzhskoj-ryukzak.jpg</picture>
+                <picture>https://images.ua.prom.st/947944349_bolshoj-muzhskoj-ryukzak.jpg</picture>
+                <picture>https://images.ua.prom.st/947944350_bolshoj-muzhskoj-ryukzak.jpg</picture>
+                <picture>https://images.ua.prom.st/947944351_bolshoj-muzhskoj-ryukzak.jpg</picture>
+                <picture>https://images.ua.prom.st/2893147027_bolshoj-muzhskoj-ryukzak.jpg</picture>
+                <picture>https://images.ua.prom.st/2893147028_bolshoj-muzhskoj-ryukzak.jpg</picture>
+                <pickup>false</pickup>
+                <delivery>true</delivery>
+                <name>Большой мужской рюкзак кожа ПУ + подарок визитница Черный</name>
+                <vendorCode>245В</vendorCode>
+                <description> Модный мужской рюкзак сумка 2 в 1 + ПОДАРОК Характеристики: Материал: Плотная и
+                    высококачественная ПУ кожа (полиуретан) – это высокосортный продукт, изготовленный по особым
+                    технологиям, своими свойствами по качеству не уступающий натуральной коже Вид: сумка-рюкзак; Высота:
+                    30 см; Ширина: 26 см; Глубина: 11 см; Достоинства: Морозостойкость (не лопается и не трескается на
+                    морозе); Не имеет постороннего запаха (что существенно отличает данный материал от дешевого
+                    кожзама); Тактильно и визуально материал очень похож на натуральную кожу (имеет богатый внешний
+                    вид); Мягкий и эластичный материал; Товар полностью соответствует фото, при необходимости отправим
+                    Вам живые фото товара на Viber. ПОДАРОК Оформите заказ прямо сейчас и гарантированно получите
+                    ПОДАРОК Яркие женские наручные часы (цвет на выбор) . Спешите, количество подарочного товара
+                    ограниченно. Отправка в день заказа Отправка с г. Днепр, в большинство городов Украины доставка 1
+                    день, сегодня заказали - завтра получили (подробнее уточняйте у менеджера при оформлении заказа)
+                    Прямые поставки с фабрик Работаем на прямую с проверенными фабриками, поэтому Вы получаете товар по
+                    самой выгодной цене на рынке Украины. Гарантия качества Гарантируем возврат или обмен товара в
+                    кратчайшие сроки, если Вас что-либо не устроит. Оплата при получении Отправляем наложенным платежом
+                    (оплата при получении), Вы оплачиваете товар после осмотра в отделении Новой Почты или Укрпочты.
+                </description>
+                <param name="Цвет">Черный</param>
+                <param name="Пол">Мужской</param>
+                <param name="Тип">Городской</param>
+                <param name="Материал">Искусственная кожа</param>
+                <param name="Глубина" unit="см">15</param>
+                <param name="Высота" unit="см">45</param>
+                <param name="Ширина" unit="см">30</param>
+                <param name="Вес" unit="г">700</param>
+                <param name="Состояние">Новое</param>
+            </offer>
+            <!--  -->
+            <offer id="736832504" available="true">
+                <url>https://kirs.com.ua/p736832504-povsednevnyj-muzhskoj-gorodskoj.html</url>
+                <price>940</price>
+                <currencyId>UAH</currencyId>
+                <categoryId>43986659</categoryId>
+                <picture>https://images.ua.prom.st/1236604073_povsednevnyj-muzhskoj-gorodskoj.jpg</picture>
+                <picture>https://images.ua.prom.st/1236604075_povsednevnyj-muzhskoj-gorodskoj.jpg</picture>
+                <picture>https://images.ua.prom.st/1236604064_povsednevnyj-muzhskoj-gorodskoj.jpg</picture>
+                <picture>https://images.ua.prom.st/1236604065_povsednevnyj-muzhskoj-gorodskoj.jpg</picture>
+                <picture>https://images.ua.prom.st/1236604066_povsednevnyj-muzhskoj-gorodskoj.jpg</picture>
+                <picture>https://images.ua.prom.st/1236604076_povsednevnyj-muzhskoj-gorodskoj.jpg</picture>
+                <picture>https://images.ua.prom.st/1236604077_povsednevnyj-muzhskoj-gorodskoj.jpg</picture>
+                <picture>https://images.ua.prom.st/1236604079_povsednevnyj-muzhskoj-gorodskoj.jpg</picture>
+                <picture>https://images.ua.prom.st/1236604080_povsednevnyj-muzhskoj-gorodskoj.jpg</picture>
+                <picture>https://images.ua.prom.st/1236604081_povsednevnyj-muzhskoj-gorodskoj.jpg</picture>
+                <pickup>false</pickup>
+                <delivery>true</delivery>
+                <name>Повседневный мужской городской рюкзак + визитница в подарок</name>
+                <vendorCode>357</vendorCode>
+                <country_of_origin>Китай</country_of_origin>
+                <description> Повседневный мужской городской рюкзак + визитница в подарок Характеристики: Материал:
+                    Плотная и высококачественная ПУ кожа (полиуретан) – это высокосортный продукт, изготовленный по
+                    особым технологиям, своими свойствами по качеству не уступающий натуральной коже Есть отделение для
+                    ноутбука (вмещает стандартный ноутбук диагональю до 15,6 дюйма включительно) Высота: 42 см; Ширина:
+                    33 см; Глубина: 14 см; Достоинства: Широкие и плотные плечевые лямки; Морозостойкость (не лопается и
+                    не трескается на морозе); Не имеет постороннего запаха (что существенно отличает данный материал от
+                    дешевого кожзама); Тактильно и визуально материал очень похож на натуральную кожу (имеет богатый
+                    внешний вид); Мягкий и эластичный материал (хорошо выдерживает нагрузку); Товар полностью
+                    соответствует фото, при необходимости отправим Вам живые фото товара на Viber. ПОДАРОК Оформите
+                    заказ прямо сейчас и гарантированно получите ПОДАРОК Качественная визитница - кардхолдер на 20 карт
+                    (цвет на выбор). Спешите, количество подарочного товара ограниченно. Отправка в день заказа Отправка
+                    с г. Днепр, в большинство городов Украины доставка 1 день, сегодня заказали - завтра получили
+                    (подробнее уточняйте у менеджера при оформлении заказа) Прямые поставки с фабрик Работаем на прямую
+                    с проверенными фабриками, поэтому Вы получаете товар по самой выгодной цене на рынке Украины.
+                    Гарантия качества Гарантируем возврат или обмен товара в кратчайшие сроки, если Вас что-либо не
+                    устроит. Оплата при получении Отправляем наложенным платежом (оплата при получении), Вы оплачиваете
+                    товар после осмотра в отделении Новой Почты или Укрпочты. </description>
+                <param name="Высота" unit="см">42</param>
+                <param name="Пол">Унисекс</param>
+                <param name="Состояние">Новое</param>
+                <param name="Ширина" unit="см">33</param>
+                <param name="Глубина" unit="см">14</param>
+                <param name="Материал">Искусственная кожа</param>
+                <param name="Цвет">Черный</param>
+                <param name="Возрастная группа" unit="">Универсальный</param>
+            </offer>
+            <!--  -->
+            <offer id="736832956" available="true" group_id="395235705">
+                <url>https://kirs.com.ua/p736832956-stilnyj-gorodskoj-ryukzak.html</url>
+                <oldprice>880</oldprice>
+                <price>679</price>
+                <currencyId>UAH</currencyId>
+                <categoryId>43986659</categoryId>
+                <picture>https://images.ua.prom.st/1236605928_stilnyj-gorodskoj-ryukzak.jpg</picture>
+                <picture>https://images.ua.prom.st/1236605912_stilnyj-gorodskoj-ryukzak.jpg</picture>
+                <picture>https://images.ua.prom.st/1236605913_stilnyj-gorodskoj-ryukzak.jpg</picture>
+                <picture>https://images.ua.prom.st/1236605914_stilnyj-gorodskoj-ryukzak.jpg</picture>
+                <picture>https://images.ua.prom.st/1236605920_stilnyj-gorodskoj-ryukzak.jpg</picture>
+                <picture>https://images.ua.prom.st/1236605921_stilnyj-gorodskoj-ryukzak.jpg</picture>
+                <picture>https://images.ua.prom.st/1236605927_stilnyj-gorodskoj-ryukzak.jpg</picture>
+                <pickup>false</pickup>
+                <delivery>true</delivery>
+                <name>Стильный городской рюкзак для мужчин ПОДАРОК визитница</name>
+                <vendorCode>356</vendorCode>
+                <description> Стильный городской рюкзак для мужчин ПОДАРОК визитница Характеристики: Материал: Плотная и
+                    высококачественная ПУ кожа (полиуретан) – это высокосортный продукт, изготовленный по особым
+                    технологиям, своими свойствами по качеству не уступающий натуральной коже Есть отделение для
+                    ноутбука (вмещает стандартный ноутбук диагональю до 15,6 дюйма включительно) Высота: 45 см; Ширина:
+                    29 см; Глубина: 11 см; Достоинства: Широкие и плотные плечевые лямки; Морозостойкость (не лопается и
+                    не трескается на морозе); Не имеет постороннего запаха (что существенно отличает данный материал от
+                    дешевого кожзама); Тактильно и визуально материал очень похож на натуральную кожу (имеет богатый
+                    внешний вид); Мягкий и эластичный материал (хорошо выдерживает нагрузку); Товар полностью
+                    соответствует фото, при необходимости отправим Вам живые фото товара на Viber. ПОДАРОК Оформите
+                    заказ прямо сейчас и гарантированно получите ПОДАРОК Качественная визитница - кардхолдер на 20 карт
+                    (цвет на выбор). Спешите, количество подарочного товара ограниченно. Отправка в день заказа Отправка
+                    с г. Днепр, в большинство городов Украины доставка 1 день, сегодня заказали - завтра получили
+                    (подробнее уточняйте у менеджера при оформлении заказа) Прямые поставки с фабрик Работаем на прямую
+                    с проверенными фабриками, поэтому Вы получаете товар по самой выгодной цене на рынке Украины.
+                    Гарантия качества Гарантируем возврат или обмен товара в кратчайшие сроки, если Вас что-либо не
+                    устроит. Оплата при получении Отправляем наложенным платежом (оплата при получении), Вы оплачиваете
+                    товар после осмотра в отделении Новой Почты или Укрпочты. </description>
+                <param name="Высота" unit="см">45</param>
+                <param name="Пол">Унисекс</param>
+                <param name="Состояние">Новое</param>
+                <param name="Ширина" unit="см">29</param>
+                <param name="Глубина" unit="см">11</param>
+                <param name="Материал">Искусственная кожа</param>
+                <param name="Цвет">Черный</param>
+            </offer>
+            <!--  -->
+            <offer id="791388373" available="true">
+                <url>https://kirs.com.ua/p791388373-stilnyj-muzhskoj-gorodskoj.html</url>
+                <oldprice>860</oldprice>
+                <price>699</price>
+                <currencyId>UAH</currencyId>
+                <categoryId>43986659</categoryId>
+                <picture>https://images.ua.prom.st/1356902506_stilnyj-muzhskoj-gorodskoj.jpg</picture>
+                <picture>https://images.ua.prom.st/1356902559_stilnyj-muzhskoj-gorodskoj.jpg</picture>
+                <picture>https://images.ua.prom.st/1356902473_stilnyj-muzhskoj-gorodskoj.jpg</picture>
+                <picture>https://images.ua.prom.st/1356902647_stilnyj-muzhskoj-gorodskoj.jpg</picture>
+                <picture>https://images.ua.prom.st/1356902669_stilnyj-muzhskoj-gorodskoj.jpg</picture>
+                <picture>https://images.ua.prom.st/1356902685_stilnyj-muzhskoj-gorodskoj.jpg</picture>
+                <picture>https://images.ua.prom.st/1356902769_stilnyj-muzhskoj-gorodskoj.jpg</picture>
+                <picture>https://images.ua.prom.st/1356902961_stilnyj-muzhskoj-gorodskoj.jpg</picture>
+                <picture>https://images.ua.prom.st/1356902967_stilnyj-muzhskoj-gorodskoj.jpg</picture>
+                <picture>https://images.ua.prom.st/1356902982_stilnyj-muzhskoj-gorodskoj.jpg</picture>
+                <pickup>false</pickup>
+                <delivery>true</delivery>
+                <name>Стильный мужской городской рюкзак</name>
+                <vendorCode>391</vendorCode>
+                <country_of_origin>Китай</country_of_origin>
+                <description> Стильный мужской городской рюкзак Характеристики: Материал: Плотная и высококачественная
+                    ПУ кожа (полиуретан) – это высокосортный продукт, изготовленный по особым технологиям, своими
+                    свойствами по качеству не уступающий натуральной коже Есть отделение для ноутбука (вмещает
+                    стандартный ноутбук диагональю до 15,6 дюйма включительно) Высота: 42 см; Ширина: 30 см; Глубина: 14
+                    см; Достоинства: Широкие и плотные плечевые лямки; Морозостойкость (не лопается и не трескается на
+                    морозе); Не имеет постороннего запаха (что существенно отличает данный материал от дешевого
+                    кожзама); Тактильно и визуально материал очень похож на натуральную кожу (имеет богатый внешний
+                    вид); Мягкий и эластичный материал (хорошо выдерживает нагрузку); Товар полностью соответствует
+                    фото, при необходимости отправим Вам живые фото товара на Viber. Отправка в день заказа Отправка с
+                    г. Днепр, в большинство городов Украины доставка 1 день, сегодня заказали - завтра получили
+                    (подробнее уточняйте у менеджера при оформлении заказа) Прямые поставки с фабрик Работаем на прямую
+                    с проверенными фабриками, поэтому Вы получаете товар по самой выгодной цене на рынке Украины.
+                    Гарантия качества Гарантируем возврат или обмен товара в кратчайшие сроки, если Вас что-либо не
+                    устроит. Оплата при получении Отправляем наложенным платежом (оплата при получении), Вы оплачиваете
+                    товар после осмотра в отделении Новой Почты или Укрпочты. </description>
+                <param name="Пол">Унисекс</param>
+                <param name="Материал">Искусственная кожа</param>
+                <param name="Глубина" unit="см">14</param>
+                <param name="Высота" unit="см">42</param>
+                <param name="Ширина" unit="см">30</param>
+                <param name="Состояние">Новое</param>
+                <param name="Цвет">Черный</param>
+            </offer>
+            <offer id="791403925" available="true" group_id="717242597">
+                <url>https://kirs.com.ua/p791403925-muzhskoj-gorodskoj-ryukzak.html</url>
+                <oldprice>850</oldprice>
+                <price>649</price>
+                <currencyId>UAH</currencyId>
+                <categoryId>43986659</categoryId>
+                <picture>https://images.ua.prom.st/3128221815_muzhskoj-gorodskoj-ryukzak.jpg</picture>
+                <picture>https://images.ua.prom.st/1356935454_muzhskoj-gorodskoj-ryukzak.jpg</picture>
+                <picture>https://images.ua.prom.st/1356935458_muzhskoj-gorodskoj-ryukzak.jpg</picture>
+                <picture>https://images.ua.prom.st/1356935459_muzhskoj-gorodskoj-ryukzak.jpg</picture>
+                <picture>https://images.ua.prom.st/1356935465_muzhskoj-gorodskoj-ryukzak.jpg</picture>
+                <picture>https://images.ua.prom.st/1356935475_muzhskoj-gorodskoj-ryukzak.jpg</picture>
+                <picture>https://images.ua.prom.st/2959363909_muzhskoj-gorodskoj-ryukzak.jpg</picture>
+                <picture>https://images.ua.prom.st/2959363910_muzhskoj-gorodskoj-ryukzak.jpg</picture>
+                <picture>https://images.ua.prom.st/2959363911_muzhskoj-gorodskoj-ryukzak.jpg</picture>
+                <picture>https://images.ua.prom.st/2959363914_muzhskoj-gorodskoj-ryukzak.jpg</picture>
+                <pickup>false</pickup>
+                <delivery>true</delivery>
+                <name>Мужской городской рюкзак в стиле ретро + ПОДАРОК</name>
+                <vendor>Фабричный Китай</vendor>
+                <vendorCode>193</vendorCode>
+                <country_of_origin>Китай</country_of_origin>
+                <description> Мужской городской рюкзак в стиле ретро + ПОДАРОК Характеристики: Материал: Плотная и
+                    высококачественная ПУ кожа (полиуретан) – это высокосортный продукт, изготовленный по особым
+                    технологиям, своими свойствами по качеству не уступающий натуральной коже Высота: 40 см; Ширина: 30
+                    см; Глубина: 15 см; Достоинства: Широкие и плотные плечевые лямки; Морозостойкость (не лопается и не
+                    трескается на морозе); Не имеет постороннего запаха (что существенно отличает данный материал от
+                    дешевого кожзама); Тактильно и визуально материал очень похож на натуральную кожу (имеет богатый
+                    внешний вид); Мягкий и эластичный материал (хорошо выдерживает нагрузку); Товар полностью
+                    соответствует фото, при необходимости отправим Вам живые фото товара на Viber. ПОДАРОК Оформите
+                    заказ прямо сейчас и гарантированно получите ПОДАРОК Качественная визитница - кардхолдер на 20 карт
+                    (цвет на выбор). Спешите, количество подарочного товара ограниченно. Отправка в день заказа Отправка
+                    с г. Днепр, в большинство городов Украины доставка 1 день, сегодня заказали - завтра получили
+                    (подробнее уточняйте у менеджера при оформлении заказа) Прямые поставки с фабрик Работаем на прямую
+                    с проверенными фабриками, поэтому Вы получаете товар по самой выгодной цене на рынке Украины.
+                    Гарантия качества Гарантируем возврат или обмен товара в кратчайшие сроки, если Вас что-либо не
+                    устроит. Оплата при получении Отправляем наложенным платежом (оплата при получении), Вы оплачиваете
+                    товар после осмотра в отделении Новой Почты или Укрпочты. </description>
+                <param name="Цвет">Коричневый</param>
+                <param name="Пол">Унисекс</param>
+                <param name="Материал">Искусственная кожа</param>
+                <param name="Глубина" unit="см">15</param>
+                <param name="Высота" unit="см">40</param>
+                <param name="Ширина" unit="см">30</param>
+                <param name="Состояние">Новое</param>
+            </offer>
+            <offer id="791403927" available="true" group_id="717242597">
+                <url>https://kirs.com.ua/p791403927-muzhskoj-gorodskoj-ryukzak.html</url>
+                <oldprice>850</oldprice>
+                <price>649</price>
+                <currencyId>UAH</currencyId>
+                <categoryId>43986659</categoryId>
+                <picture>https://images.ua.prom.st/1356939373_muzhskoj-gorodskoj-ryukzak.jpg</picture>
+                <picture>https://images.ua.prom.st/1356939371_muzhskoj-gorodskoj-ryukzak.jpg</picture>
+                <pickup>false</pickup>
+                <delivery>true</delivery>
+                <name>Мужской городской рюкзак в стиле ретро + ПОДАРОК Черный</name>
+                <vendorCode>193</vendorCode>
+                <country_of_origin>Китай</country_of_origin>
+                <description />
+                <param name="Цвет">Черный</param>
+                <param name="Пол">Унисекс</param>
+                <param name="Материал">Искусственная кожа</param>
+                <param name="Глубина" unit="см">15</param>
+                <param name="Высота" unit="см">40</param>
+                <param name="Ширина" unit="см">30</param>
+                <param name="Состояние">Новое</param>
+            </offer>
+            <offer id="820869566" available="true" group_id="495266406">
+                <url>https://kirs.com.ua/p820869566-gorodskoj-muzhskoj-ryukzak.html</url>
+                <oldprice>800</oldprice>
+                <price>599</price>
+                <currencyId>UAH</currencyId>
+                <categoryId>43986659</categoryId>
+                <picture>https://images.ua.prom.st/1424637136_gorodskoj-muzhskoj-ryukzak.jpg</picture>
+                <picture>https://images.ua.prom.st/1424637135_gorodskoj-muzhskoj-ryukzak.jpg</picture>
+                <picture>https://images.ua.prom.st/1424637130_gorodskoj-muzhskoj-ryukzak.jpg</picture>
+                <picture>https://images.ua.prom.st/1424637128_gorodskoj-muzhskoj-ryukzak.jpg</picture>
+                <picture>https://images.ua.prom.st/1424637129_gorodskoj-muzhskoj-ryukzak.jpg</picture>
+                <picture>https://images.ua.prom.st/1424637131_gorodskoj-muzhskoj-ryukzak.jpg</picture>
+                <picture>https://images.ua.prom.st/1424637132_gorodskoj-muzhskoj-ryukzak.jpg</picture>
+                <picture>https://images.ua.prom.st/1424637133_gorodskoj-muzhskoj-ryukzak.jpg</picture>
+                <picture>https://images.ua.prom.st/1424637134_gorodskoj-muzhskoj-ryukzak.jpg</picture>
+                <pickup>false</pickup>
+                <delivery>true</delivery>
+                <name>Городской мужской рюкзак + кардхолдер в подарок</name>
+                <vendorCode>393</vendorCode>
+                <description> Городской мужской рюкзак + кардхолдер в подарок Характеристики: Материал: Плотная и
+                    высококачественная ПУ кожа (полиуретан) – это высокосортный продукт, изготовленный по особым
+                    технологиям, своими свойствами по качеству не уступающий натуральной коже Есть отделение для
+                    ноутбука (вмещает стандартный ноутбук диагональю до 15,6 дюйма включительно) Высота: 45 см; Ширина:
+                    30 см; Глубина: 15 см; Достоинства: Широкие и плотные плечевые лямки; Морозостойкость (не лопается и
+                    не трескается на морозе); Не имеет постороннего запаха (что существенно отличает данный материал от
+                    дешевого кожзама); Тактильно и визуально материал очень похож на натуральную кожу (имеет богатый
+                    внешний вид); Мягкий и эластичный материал (хорошо выдерживает нагрузку); Товар полностью
+                    соответствует фото, при необходимости отправим Вам живые фото товара на Viber. ПОДАРОК Оформите
+                    заказ прямо сейчас и гарантированно получите ПОДАРОК Качественная визитница - кардхолдер на 20 карт
+                    (цвет на выбор). Спешите, количество подарочного товара ограниченно. Отправка в день заказа Отправка
+                    с г. Днепр, в большинство городов Украины доставка 1 день, сегодня заказали - завтра получили
+                    (подробнее уточняйте у менеджера при оформлении заказа) Прямые поставки с фабрик Работаем на прямую
+                    с проверенными фабриками, поэтому Вы получаете товар по самой выгодной цене на рынке Украины.
+                    Гарантия качества Гарантируем возврат или обмен товара в кратчайшие сроки, если Вас что-либо не
+                    устроит. Оплата при получении Отправляем наложенным платежом (оплата при получении), Вы оплачиваете
+                    товар после осмотра в отделении Новой Почты или Укрпочты. </description>
+                <param name="Пол">Мужской</param>
+                <param name="Материал">Искусственная кожа</param>
+                <param name="Состояние">Новое</param>
+                <param name="Тип">Городской</param>
+                <param name="Глубина" unit="см">15</param>
+                <param name="Высота" unit="см">45</param>
+                <param name="Ширина" unit="см">30</param>
+                <param name="Вес" unit="г">730</param>
+                <param name="Возрастная группа" unit="">Универсальный</param>
+                <param name="Цвет" unit="">Черный</param>
+            </offer>
+            <offer id="820869568" available="true" group_id="495266406">
+                <url>https://kirs.com.ua/p820869568-gorodskoj-muzhskoj-ryukzak.html</url>
+                <oldprice>800</oldprice>
+                <price>599</price>
+                <currencyId>UAH</currencyId>
+                <categoryId>43986659</categoryId>
+                <picture>https://images.ua.prom.st/1424639290_gorodskoj-muzhskoj-ryukzak.jpg</picture>
+                <picture>https://images.ua.prom.st/1424639283_gorodskoj-muzhskoj-ryukzak.jpg</picture>
+                <picture>https://images.ua.prom.st/1424639284_gorodskoj-muzhskoj-ryukzak.jpg</picture>
+                <picture>https://images.ua.prom.st/1424639286_gorodskoj-muzhskoj-ryukzak.jpg</picture>
+                <picture>https://images.ua.prom.st/1424639288_gorodskoj-muzhskoj-ryukzak.jpg</picture>
+                <picture>https://images.ua.prom.st/1424639291_gorodskoj-muzhskoj-ryukzak.jpg</picture>
+                <pickup>false</pickup>
+                <delivery>true</delivery>
+                <name>Городской мужской рюкзак + кардхолдер в подарок Коричневый</name>
+                <vendorCode>393</vendorCode>
+                <description />
+                <param name="Пол">Мужской</param>
+                <param name="Материал">Искусственная кожа</param>
+                <param name="Состояние">Новое</param>
+                <param name="Тип">Городской</param>
+                <param name="Глубина" unit="см">15</param>
+                <param name="Высота" unit="см">45</param>
+                <param name="Ширина" unit="см">30</param>
+                <param name="Вес" unit="г">730</param>
+                <param name="Цвет">Коричневый</param>
+            </offer>
+            <offer id="863434993" available="true" group_id="247717715">
+                <url>https://kirs.com.ua/p863434993-klassicheskij-muzhskoj-ryukzak.html</url>
+                <oldprice>800</oldprice>
+                <price>599</price>
+                <currencyId>UAH</currencyId>
+                <categoryId>43986659</categoryId>
+                <picture>https://images.ua.prom.st/1524079050_klassicheskij-muzhskoj-ryukzak.jpg</picture>
+                <picture>https://images.ua.prom.st/1524078724_klassicheskij-muzhskoj-ryukzak.jpg</picture>
+                <picture>https://images.ua.prom.st/1524078737_klassicheskij-muzhskoj-ryukzak.jpg</picture>
+                <picture>https://images.ua.prom.st/1524078748_klassicheskij-muzhskoj-ryukzak.jpg</picture>
+                <picture>https://images.ua.prom.st/1524078774_klassicheskij-muzhskoj-ryukzak.jpg</picture>
+                <picture>https://images.ua.prom.st/1524078840_klassicheskij-muzhskoj-ryukzak.jpg</picture>
+                <picture>https://images.ua.prom.st/1524078983_klassicheskij-muzhskoj-ryukzak.jpg</picture>
+                <picture>https://images.ua.prom.st/1524079004_klassicheskij-muzhskoj-ryukzak.jpg</picture>
+                <picture>https://images.ua.prom.st/1524079051_klassicheskij-muzhskoj-ryukzak.jpg</picture>
+                <pickup>false</pickup>
+                <delivery>true</delivery>
+                <name>Классический мужской рюкзак ПУ кожа + ПОДАРОК визитница</name>
+                <vendorCode>394</vendorCode>
+                <description> Классический мужской рюкзак ПУ кожа + ПОДАРОК визитница Характеристики: Материал: Плотная
+                    и высококачественная ПУ кожа (полиуретан) – это высокосортный продукт, изготовленный по особым
+                    технологиям, своими свойствами по качеству не уступающий натуральной коже Есть отделение для
+                    ноутбука (вмещает стандартный ноутбук диагональю до 15,6 дюйма включительно) Высота: 44 см; Ширина:
+                    31 см; Глубина: 12 см; Достоинства: Широкие и плотные плечевые лямки; Морозостойкость (не лопается и
+                    не трескается на морозе); Не имеет постороннего запаха (что существенно отличает данный материал от
+                    дешевого кожзама); Тактильно и визуально материал очень похож на натуральную кожу (имеет богатый
+                    внешний вид); Мягкий и эластичный материал (хорошо выдерживает нагрузку); Товар полностью
+                    соответствует фото, при необходимости отправим Вам живые фото товара на Viber. ПОДАРОК Оформите
+                    заказ прямо сейчас и гарантированно получите ПОДАРОК Качественная визитница - кардхолдер на 20 карт
+                    (цвет на выбор). Спешите, количество подарочного товара ограниченно. Отправка в день заказа Отправка
+                    с г. Днепр, в большинство городов Украины доставка 1 день, сегодня заказали - завтра получили
+                    (подробнее уточняйте у менеджера при оформлении заказа) Прямые поставки с фабрик Работаем на прямую
+                    с проверенными фабриками, поэтому Вы получаете товар по самой выгодной цене на рынке Украины.
+                    Гарантия качества Гарантируем возврат или обмен товара в кратчайшие сроки, если Вас что-либо не
+                    устроит. Оплата при получении Отправляем наложенным платежом (оплата при получении), Вы оплачиваете
+                    товар после осмотра в отделении Новой Почты или Укрпочты. </description>
+                <param name="Цвет">Черный</param>
+                <param name="Пол">Унисекс</param>
+                <param name="Тип">Городской</param>
+                <param name="Материал">Искусственная кожа</param>
+                <param name="Глубина" unit="см">12</param>
+                <param name="Высота" unit="см">44</param>
+                <param name="Ширина" unit="см">31</param>
+                <param name="Вес" unit="г">700</param>
+                <param name="Состояние">Новое</param>
+                <param name="Возрастная группа" unit="">Универсальный</param>
+            </offer>
+            <offer id="863434994" available="true" group_id="247717715">
+                <url>https://kirs.com.ua/p863434994-klassicheskij-muzhskoj-ryukzak.html</url>
+                <oldprice>800</oldprice>
+                <price>599</price>
+                <currencyId>UAH</currencyId>
+                <categoryId>43986659</categoryId>
+                <picture>https://images.ua.prom.st/1524082115_klassicheskij-muzhskoj-ryukzak.jpg</picture>
+                <picture>https://images.ua.prom.st/1524082106_klassicheskij-muzhskoj-ryukzak.jpg</picture>
+                <picture>https://images.ua.prom.st/1524082164_klassicheskij-muzhskoj-ryukzak.jpg</picture>
+                <picture>https://images.ua.prom.st/1524082063_klassicheskij-muzhskoj-ryukzak.jpg</picture>
+                <picture>https://images.ua.prom.st/1524082066_klassicheskij-muzhskoj-ryukzak.jpg</picture>
+                <picture>https://images.ua.prom.st/1524082166_klassicheskij-muzhskoj-ryukzak.jpg</picture>
+                <picture>https://images.ua.prom.st/1524082086_klassicheskij-muzhskoj-ryukzak.jpg</picture>
+                <picture>https://images.ua.prom.st/1524082151_klassicheskij-muzhskoj-ryukzak.jpg</picture>
+                <picture>https://images.ua.prom.st/1524082153_klassicheskij-muzhskoj-ryukzak.jpg</picture>
+                <picture>https://images.ua.prom.st/1524082157_klassicheskij-muzhskoj-ryukzak.jpg</picture>
+                <pickup>false</pickup>
+                <delivery>true</delivery>
+                <name>Классический мужской рюкзак ПУ кожа + ПОДАРОК визитница Мужской, Черный</name>
+                <vendorCode>394</vendorCode>
+                <description />
+                <param name="Цвет">Черный</param>
+                <param name="Пол">Мужской</param>
+                <param name="Тип">Городской</param>
+                <param name="Материал">Искусственная кожа</param>
+                <param name="Глубина" unit="см">12</param>
+                <param name="Высота" unit="см">44</param>
+                <param name="Ширина" unit="см">31</param>
+                <param name="Вес" unit="г">700</param>
+                <param name="Состояние">Новое</param>
+            </offer>
+            <offer id="863434995" available="true" group_id="247717715">
+                <url>https://kirs.com.ua/p863434995-klassicheskij-muzhskoj-ryukzak.html</url>
+                <oldprice>800</oldprice>
+                <price>599</price>
+                <currencyId>UAH</currencyId>
+                <categoryId>43986659</categoryId>
+                <picture>https://images.ua.prom.st/1524083443_klassicheskij-muzhskoj-ryukzak.jpg</picture>
+                <picture>https://images.ua.prom.st/1524083441_klassicheskij-muzhskoj-ryukzak.jpg</picture>
+                <picture>https://images.ua.prom.st/1524083440_klassicheskij-muzhskoj-ryukzak.jpg</picture>
+                <picture>https://images.ua.prom.st/1524083447_klassicheskij-muzhskoj-ryukzak.jpg</picture>
+                <picture>https://images.ua.prom.st/1524083467_klassicheskij-muzhskoj-ryukzak.jpg</picture>
+                <picture>https://images.ua.prom.st/1524083490_klassicheskij-muzhskoj-ryukzak.jpg</picture>
+                <pickup>false</pickup>
+                <delivery>true</delivery>
+                <name>Классический мужской рюкзак ПУ кожа + ПОДАРОК визитница Мужской, Коричневый</name>
+                <vendorCode>394</vendorCode>
+                <description />
+                <param name="Цвет">Коричневый</param>
+                <param name="Пол">Мужской</param>
+                <param name="Тип">Городской</param>
+                <param name="Материал">Искусственная кожа</param>
+                <param name="Глубина" unit="см">12</param>
+                <param name="Высота" unit="см">44</param>
+                <param name="Ширина" unit="см">31</param>
+                <param name="Вес" unit="г">700</param>
+                <param name="Состояние">Новое</param>
+            </offer>
+            <offer id="889870994" available="true" group_id="395235705">
+                <url>https://kirs.com.ua/p889870994-stilnyj-gorodskoj-ryukzak.html</url>
+                <oldprice>880</oldprice>
+                <price>679</price>
+                <currencyId>UAH</currencyId>
+                <categoryId>43986659</categoryId>
+                <picture>https://images.ua.prom.st/1590393089_stilnyj-gorodskoj-ryukzak.jpg</picture>
+                <picture>https://images.ua.prom.st/1590393090_stilnyj-gorodskoj-ryukzak.jpg</picture>
+                <pickup>false</pickup>
+                <delivery>true</delivery>
+                <name>Стильный городской рюкзак для мужчин ПОДАРОК визитница Коричневый</name>
+                <vendorCode>356</vendorCode>
+                <description />
+                <param name="Высота" unit="см">45</param>
+                <param name="Пол">Унисекс</param>
+                <param name="Состояние">Новое</param>
+                <param name="Ширина" unit="см">29</param>
+                <param name="Глубина" unit="см">11</param>
+                <param name="Материал">Искусственная кожа</param>
+                <param name="Цвет">Коричневый</param>
+            </offer>
+            <offer id="889898274" available="true" group_id="334410069">
+                <url>https://kirs.com.ua/p889898274-gorodskoj-muzhskoj-ryukzak.html</url>
+                <oldprice>750</oldprice>
+                <price>549</price>
+                <currencyId>UAH</currencyId>
+                <categoryId>43986659</categoryId>
+                <picture>https://images.ua.prom.st/1774150697_gorodskoj-muzhskoj-ryukzak.jpg</picture>
+                <picture>https://images.ua.prom.st/1590482972_gorodskoj-muzhskoj-ryukzak.jpg</picture>
+                <picture>https://images.ua.prom.st/1590482970_gorodskoj-muzhskoj-ryukzak.jpg</picture>
+                <picture>https://images.ua.prom.st/1590482971_gorodskoj-muzhskoj-ryukzak.jpg</picture>
+                <picture>https://images.ua.prom.st/1590482978_gorodskoj-muzhskoj-ryukzak.jpg</picture>
+                <picture>https://images.ua.prom.st/1590482979_gorodskoj-muzhskoj-ryukzak.jpg</picture>
+                <picture>https://images.ua.prom.st/1590482980_gorodskoj-muzhskoj-ryukzak.jpg</picture>
+                <picture>https://images.ua.prom.st/1774150667_gorodskoj-muzhskoj-ryukzak.jpg</picture>
+                <picture>https://images.ua.prom.st/1774150696_gorodskoj-muzhskoj-ryukzak.jpg</picture>
+                <pickup>false</pickup>
+                <delivery>true</delivery>
+                <name>Городской мужской рюкзак кожзам</name>
+                <vendorCode>410</vendorCode>
+                <description> Городской мужской рюкзак кожзам Характеристики: Материал: Плотная и высококачественная ПУ
+                    кожа (полиуретан) – это высокосортный продукт, изготовленный по особым технологиям, своими
+                    свойствами по качеству не уступающий натуральной коже Есть отделение для ноутбука (вмещает
+                    стандартный ноутбук диагональю до 15,6 дюйма включительно) Высота: 45 см; Ширина: 30 см; Глубина: 15
+                    см; Достоинства: Широкие и плотные плечевые лямки; Морозостойкость (не лопается и не трескается на
+                    морозе); Не имеет постороннего запаха (что существенно отличает данный материал от дешевого
+                    кожзама); Тактильно и визуально материал очень похож на натуральную кожу (имеет богатый внешний
+                    вид); Мягкий и эластичный материал (хорошо выдерживает нагрузку); Товар полностью соответствует
+                    фото, при необходимости отправим Вам живые фото товара на Viber. Отправка в день заказа Отправка с
+                    г. Днепр, в большинство городов Украины доставка 1 день, сегодня заказали - завтра получили
+                    (подробнее уточняйте у менеджера при оформлении заказа) Прямые поставки с фабрик Работаем на прямую
+                    с проверенными фабриками, поэтому Вы получаете товар по самой выгодной цене на рынке Украины.
+                    Гарантия качества Гарантируем возврат или обмен товара в кратчайшие сроки, если Вас что-либо не
+                    устроит. Оплата при получении Отправляем наложенным платежом (оплата при получении), Вы оплачиваете
+                    товар после осмотра в отделении Новой Почты или Укрпочты. </description>
+                <param name="Пол">Мужской</param>
+                <param name="Материал">Искусственная кожа</param>
+                <param name="Состояние">Новое</param>
+                <param name="Тип">Городской</param>
+                <param name="Глубина" unit="см">15</param>
+                <param name="Высота" unit="см">45</param>
+                <param name="Ширина" unit="см">30</param>
+                <param name="Вес" unit="г">700</param>
+                <param name="Возрастная группа" unit="">Универсальный</param>
+                <param name="Цвет" unit="">Черный</param>
+            </offer>
+            <offer id="905229338" available="true" group_id="986217523">
+                <url>https://kirs.com.ua/p905229338-modnyj-muzhskoj-ryukzak.html</url>
+                <oldprice>900</oldprice>
+                <price>699</price>
+                <currencyId>UAH</currencyId>
+                <categoryId>43986659</categoryId>
+                <picture>https://images.ua.prom.st/1622379467_modnyj-muzhskoj-ryukzak.jpg</picture>
+                <picture>https://images.ua.prom.st/1622379465_modnyj-muzhskoj-ryukzak.jpg</picture>
+                <picture>https://images.ua.prom.st/1622379468_modnyj-muzhskoj-ryukzak.jpg</picture>
+                <picture>https://images.ua.prom.st/1622379469_modnyj-muzhskoj-ryukzak.jpg</picture>
+                <picture>https://images.ua.prom.st/1622379472_modnyj-muzhskoj-ryukzak.jpg</picture>
+                <picture>https://images.ua.prom.st/1622379473_modnyj-muzhskoj-ryukzak.jpg</picture>
+                <picture>https://images.ua.prom.st/1622379476_modnyj-muzhskoj-ryukzak.jpg</picture>
+                <picture>https://images.ua.prom.st/1622379479_modnyj-muzhskoj-ryukzak.jpg</picture>
+                <picture>https://images.ua.prom.st/1622379480_modnyj-muzhskoj-ryukzak.jpg</picture>
+                <picture>https://images.ua.prom.st/1622379481_modnyj-muzhskoj-ryukzak.jpg</picture>
+                <pickup>false</pickup>
+                <delivery>true</delivery>
+                <name>Модный мужской рюкзак + ПОДАРОК</name>
+                <vendorCode>412</vendorCode>
+                <description> Модный мужской рюкзак + ПОДАРОК Характеристики: Материал: Плотная и высококачественная ПУ
+                    кожа (полиуретан) – это высокосортный продукт, изготовленный по особым технологиям, своими
+                    свойствами по качеству не уступающий натуральной коже Есть отделение для ноутбука (вмещает
+                    стандартный ноутбук диагональю до 15,6 дюйма включительно) Высота: 40 см; Ширина: 30 см; Глубина: 15
+                    см; Достоинства: Широкие и плотные плечевые лямки; Морозостойкость (не лопается и не трескается на
+                    морозе); Не имеет постороннего запаха (что существенно отличает данный материал от дешевого
+                    кожзама); Тактильно и визуально материал очень похож на натуральную кожу (имеет богатый внешний
+                    вид); Мягкий и эластичный материал (хорошо выдерживает нагрузку); Товар полностью соответствует
+                    фото, при необходимости отправим Вам живые фото товара на Viber. ПОДАРОК Оформите заказ прямо сейчас
+                    и гарантированно получите ПОДАРОК Качественная визитница - кардхолдер на 20 карт (цвет на выбор).
+                    Спешите, количество подарочного товара ограниченно. Отправка в день заказа Отправка с г. Днепр, в
+                    большинство городов Украины доставка 1 день, сегодня заказали - завтра получили (подробнее уточняйте
+                    у менеджера при оформлении заказа) Прямые поставки с фабрик Работаем на прямую с проверенными
+                    фабриками, поэтому Вы получаете товар по самой выгодной цене на рынке Украины. Гарантия качества
+                    Гарантируем возврат или обмен товара в кратчайшие сроки, если Вас что-либо не устроит. Оплата при
+                    получении Отправляем наложенным платежом (оплата при получении), Вы оплачиваете товар после осмотра
+                    в отделении Новой Почты или Укрпочты. </description>
+                <param name="Пол">Унисекс</param>
+                <param name="Материал">Искусственная кожа</param>
+                <param name="Глубина" unit="см">15</param>
+                <param name="Высота" unit="см">40</param>
+                <param name="Ширина" unit="см">30</param>
+                <param name="Состояние">Новое</param>
+                <param name="Цвет" unit="">Черный</param>
+            </offer>
+            <offer id="905229340" available="" group_id="986217523">
+                <url>https://kirs.com.ua/p905229340-modnyj-muzhskoj-ryukzak.html</url>
+                <price>900</price>
+                <currencyId>UAH</currencyId>
+                <categoryId>43986659</categoryId>
+                <picture>https://images.ua.prom.st/1622387228_modnyj-muzhskoj-ryukzak.jpg</picture>
+                <picture>https://images.ua.prom.st/1622387227_modnyj-muzhskoj-ryukzak.jpg</picture>
+                <pickup>false</pickup>
+                <delivery>true</delivery>
+                <name>Модный мужской рюкзак + ПОДАРОК Коричневый</name>
+                <vendorCode>412</vendorCode>
+                <description />
+                <param name="Пол">Унисекс</param>
+                <param name="Материал">Искусственная кожа</param>
+                <param name="Глубина" unit="см">15</param>
+                <param name="Высота" unit="см">40</param>
+                <param name="Ширина" unit="см">30</param>
+                <param name="Состояние">Новое</param>
+                <param name="Цвет">Коричневый</param>
+            </offer>
+            <offer id="905287349" available="true">
+                <url>https://kirs.com.ua/p905287349-trendovyj-muzhskoj-ryukzak.html</url>
+                <oldprice>1100</oldprice>
+                <price>949</price>
+                <currencyId>UAH</currencyId>
+                <categoryId>43986659</categoryId>
+                <picture>https://images.ua.prom.st/1622457242_trendovyj-muzhskoj-ryukzak.jpg</picture>
+                <picture>https://images.ua.prom.st/1622457230_trendovyj-muzhskoj-ryukzak.jpg</picture>
+                <picture>https://images.ua.prom.st/1622457232_trendovyj-muzhskoj-ryukzak.jpg</picture>
+                <picture>https://images.ua.prom.st/1622457235_trendovyj-muzhskoj-ryukzak.jpg</picture>
+                <picture>https://images.ua.prom.st/1622457236_trendovyj-muzhskoj-ryukzak.jpg</picture>
+                <picture>https://images.ua.prom.st/1622457238_trendovyj-muzhskoj-ryukzak.jpg</picture>
+                <picture>https://images.ua.prom.st/1622457239_trendovyj-muzhskoj-ryukzak.jpg</picture>
+                <picture>https://images.ua.prom.st/1622457240_trendovyj-muzhskoj-ryukzak.jpg</picture>
+                <picture>https://images.ua.prom.st/1622457241_trendovyj-muzhskoj-ryukzak.jpg</picture>
+                <pickup>false</pickup>
+                <delivery>true</delivery>
+                <name>Трендовый мужской рюкзак + кардхолдер в подарок</name>
+                <vendorCode>413</vendorCode>
+                <description> Трендовый мужской рюкзак + кардхолдер в подарок Характеристики: Материал: Плотная и
+                    высококачественная ПУ кожа (полиуретан) – это высокосортный продукт, изготовленный по особым
+                    технологиям, своими свойствами по качеству не уступающий натуральной коже Вмещает стандартный
+                    ноутбук диагональю до 15,6 дюйма включительно; Высота: 42 см; Ширина: 30 см; Глубина: 15 см;
+                    Достоинства: Широкие и плотные плечевые лямки; Морозостойкость (не лопается и не трескается на
+                    морозе); Не имеет постороннего запаха (что существенно отличает данный материал от дешевого
+                    кожзама); Тактильно и визуально материал очень похож на натуральную кожу (имеет богатый внешний
+                    вид); Мягкий и эластичный материал (хорошо выдерживает нагрузку); Товар полностью соответствует
+                    фото, при необходимости отправим Вам живые фото товара на Viber. ПОДАРОК Оформите заказ прямо сейчас
+                    и гарантированно получите ПОДАРОК Качественная визитница - кардхолдер на 20 карт (цвет на выбор).
+                    Спешите, количество подарочного товара ограниченно. Отправка в день заказа Отправка с г. Днепр, в
+                    большинство городов Украины доставка 1 день, сегодня заказали - завтра получили (подробнее уточняйте
+                    у менеджера при оформлении заказа) Прямые поставки с фабрик Работаем на прямую с проверенными
+                    фабриками, поэтому Вы получаете товар по самой выгодной цене на рынке Украины. Гарантия качества
+                    Гарантируем возврат или обмен товара в кратчайшие сроки, если Вас что-либо не устроит. Оплата при
+                    получении Отправляем наложенным платежом (оплата при получении), Вы оплачиваете товар после осмотра
+                    в отделении Новой Почты или Укрпочты. </description>
+                <param name="Пол">Мужской</param>
+                <param name="Материал">Искусственная кожа</param>
+                <param name="Состояние">Новое</param>
+                <param name="Тип">Городской</param>
+                <param name="Глубина" unit="см">15</param>
+                <param name="Высота" unit="см">42</param>
+                <param name="Ширина" unit="см">30</param>
+                <param name="Вес" unit="г">990</param>
+                <param name="Цвет">Черный</param>
+                <param name="Возрастная группа" unit="">Универсальный</param>
+            </offer>
+            <offer id="932345921" available="true" group_id="606809637">
+                <url>https://kirs.com.ua/p932345921-kachestvennyj-muzhskoj-ryukzak.html</url>
+                <oldprice>1100</oldprice>
+                <price>899</price>
+                <currencyId>UAH</currencyId>
+                <categoryId>43986659</categoryId>
+                <picture>https://images.ua.prom.st/1997273835_kachestvennyj-muzhskoj-ryukzak.jpg</picture>
+                <picture>https://images.ua.prom.st/1997273837_kachestvennyj-muzhskoj-ryukzak.jpg</picture>
+                <picture>https://images.ua.prom.st/1997273839_kachestvennyj-muzhskoj-ryukzak.jpg</picture>
+                <picture>https://images.ua.prom.st/1997273834_kachestvennyj-muzhskoj-ryukzak.jpg</picture>
+                <picture>https://images.ua.prom.st/1997273833_kachestvennyj-muzhskoj-ryukzak.jpg</picture>
+                <picture>https://images.ua.prom.st/1997273836_kachestvennyj-muzhskoj-ryukzak.jpg</picture>
+                <picture>https://images.ua.prom.st/1997273840_kachestvennyj-muzhskoj-ryukzak.jpg</picture>
+                <picture>https://images.ua.prom.st/1997273842_kachestvennyj-muzhskoj-ryukzak.jpg</picture>
+                <picture>https://images.ua.prom.st/2805344070_kachestvennyj-muzhskoj-ryukzak.jpg</picture>
+                <picture>https://images.ua.prom.st/2805344071_kachestvennyj-muzhskoj-ryukzak.jpg</picture>
+                <pickup>false</pickup>
+                <delivery>true</delivery>
+                <name>Качественный мужской рюкзак + подарок кредитница</name>
+                <vendorCode>425</vendorCode>
+                <description> Качественный мужской рюкзак + подарок кредитница Характеристики: Материал: Плотная и
+                    высококачественная ПУ кожа (полиуретан) – это высокосортный продукт, изготовленный по особым
+                    технологиям, своими свойствами по качеству не уступающий натуральной коже Есть отделение для
+                    ноутбука (вмещает стандартный ноутбук диагональю до 15,6 дюйма включительно или можно положить
+                    планшет); Высота: 39 см; Ширина: 29 см; Глубина: 13 см; Достоинства: Широкие и плотные плечевые
+                    лямки; Морозостойкость (не лопается и не трескается на морозе); Не имеет постороннего запаха (что
+                    существенно отличает данный материал от дешевого кожзама); Тактильно и визуально материал очень
+                    похож на натуральную кожу (имеет богатый внешний вид); Мягкий и эластичный материал (хорошо
+                    выдерживает нагрузку); Товар полностью соответствует фото, при необходимости отправим Вам живые фото
+                    товара на Viber. ПОДАРОК Оформите заказ прямо сейчас и гарантированно получите ПОДАРОК Качественная
+                    визитница - кардхолдер на 20 карт (цвет на выбор). Спешите, количество подарочного товара
+                    ограниченно. Отправка в день заказа Отправка с г. Днепр, в большинство городов Украины доставка 1
+                    день, сегодня заказали - завтра получили (подробнее уточняйте у менеджера при оформлении заказа)
+                    Прямые поставки с фабрик Работаем на прямую с проверенными фабриками, поэтому Вы получаете товар по
+                    самой выгодной цене на рынке Украины. Гарантия качества Гарантируем возврат или обмен товара в
+                    кратчайшие сроки, если Вас что-либо не устроит. Оплата при получении Отправляем наложенным платежом
+                    (оплата при получении), Вы оплачиваете товар после осмотра в отделении Новой Почты или Укрпочты.
+                </description>
+                <param name="Цвет">Коричневый</param>
+                <param name="Пол">Мужской</param>
+                <param name="Тип">Городской</param>
+                <param name="Материал">Искусственная кожа</param>
+                <param name="Глубина" unit="см">13</param>
+                <param name="Высота" unit="см">39</param>
+                <param name="Ширина" unit="см">29</param>
+                <param name="Вес" unit="г">800</param>
+                <param name="Состояние">Новое</param>
+                <param name="Возрастная группа" unit="">Универсальный</param>
+            </offer>
+            <offer id="942806738" available="" group_id="936895489">
+                <url>https://kirs.com.ua/p942806738-muzhskoj-ryukzak-stile.html</url>
+                <price>850</price>
+                <currencyId>UAH</currencyId>
+                <categoryId>43986659</categoryId>
+                <picture>https://images.ua.prom.st/1714251786_muzhskoj-ryukzak-v.jpg</picture>
+                <picture>https://images.ua.prom.st/1714251785_muzhskoj-ryukzak-v.jpg</picture>
+                <picture>https://images.ua.prom.st/1714251787_muzhskoj-ryukzak-v.jpg</picture>
+                <picture>https://images.ua.prom.st/1714251805_muzhskoj-ryukzak-v.jpg</picture>
+                <picture>https://images.ua.prom.st/1714251804_muzhskoj-ryukzak-v.jpg</picture>
+                <picture>https://images.ua.prom.st/1714251807_muzhskoj-ryukzak-v.jpg</picture>
+                <picture>https://images.ua.prom.st/1714251808_muzhskoj-ryukzak-v.jpg</picture>
+                <picture>https://images.ua.prom.st/1714251809_muzhskoj-ryukzak-v.jpg</picture>
+                <pickup>false</pickup>
+                <delivery>true</delivery>
+                <name>Мужской рюкзак в стиле ретро из эко кожи</name>
+                <vendorCode>439</vendorCode>
+                <description> Мужской рюкзак в стиле ретро из эко кожи Характеристики: Материал: Плотная и
+                    высококачественная ПУ кожа (полиуретан) – это высокосортный продукт, изготовленный по особым
+                    технологиям, своими свойствами по качеству не уступающий натуральной коже Есть отделение для
+                    ноутбука (вмещает стандартный ноутбук диагональю до 15,6 дюйма включительно) Высота: 38 см; Ширина:
+                    30 см; Глубина: 10 см; Достоинства: Широкие и плотные плечевые лямки; Морозостойкость (не лопается и
+                    не трескается на морозе); Не имеет постороннего запаха (что существенно отличает данный материал от
+                    дешевого кожзама); Тактильно и визуально материал очень похож на натуральную кожу (имеет богатый
+                    внешний вид); Мягкий и эластичный материал (хорошо выдерживает нагрузку); Товар полностью
+                    соответствует фото, при необходимости отправим Вам живые фото товара на Viber. Отправка в день
+                    заказа Отправка с г. Днепр, в большинство городов Украины доставка 1 день, сегодня заказали - завтра
+                    получили (подробнее уточняйте у менеджера при оформлении заказа) Прямые поставки с фабрик Работаем
+                    на прямую с проверенными фабриками, поэтому Вы получаете товар по самой выгодной цене на рынке
+                    Украины. Гарантия качества Гарантируем возврат или обмен товара в кратчайшие сроки, если Вас
+                    что-либо не устроит. Оплата при получении Отправляем наложенным платежом (оплата при получении), Вы
+                    оплачиваете товар после осмотра в отделении Новой Почты или Укрпочты. </description>
+                <param name="Пол">Унисекс</param>
+                <param name="Материал">Искусственная кожа</param>
+                <param name="Глубина" unit="см">10</param>
+                <param name="Высота" unit="см">38</param>
+                <param name="Ширина" unit="см">30</param>
+                <param name="Состояние">Новое</param>
+                <param name="Цвет">Черный</param>
+                <param name="Вес" unit="г">900</param>
+            </offer>
+            <offer id="942812709" available="true" group_id="936895489">
+                <url>https://kirs.com.ua/p942812709-muzhskoj-ryukzak-stile.html</url>
+                <price>850</price>
+                <currencyId>UAH</currencyId>
+                <categoryId>43986659</categoryId>
+                <picture>https://images.ua.prom.st/1714254967_muzhskoj-ryukzak-v.jpg</picture>
+                <picture>https://images.ua.prom.st/1714254977_muzhskoj-ryukzak-v.jpg</picture>
+                <picture>https://images.ua.prom.st/1714255008_muzhskoj-ryukzak-v.jpg</picture>
+                <picture>https://images.ua.prom.st/1714255009_muzhskoj-ryukzak-v.jpg</picture>
+                <picture>https://images.ua.prom.st/1714255010_muzhskoj-ryukzak-v.jpg</picture>
+                <picture>https://images.ua.prom.st/1714255012_muzhskoj-ryukzak-v.jpg</picture>
+                <picture>https://images.ua.prom.st/1714255017_muzhskoj-ryukzak-v.jpg</picture>
+                <pickup>false</pickup>
+                <delivery>true</delivery>
+                <name>Мужской рюкзак в стиле ретро из эко кожи Коричневый</name>
+                <vendorCode>439</vendorCode>
+                <description />
+                <param name="Пол">Унисекс</param>
+                <param name="Материал">Искусственная кожа</param>
+                <param name="Глубина" unit="см">10</param>
+                <param name="Высота" unit="см">38</param>
+                <param name="Ширина" unit="см">30</param>
+                <param name="Состояние">Новое</param>
+                <param name="Цвет">Коричневый</param>
+                <param name="Вес" unit="г">900</param>
+            </offer>
+            <offer id="943490319" available="true">
+                <url>https://kirs.com.ua/p943490319-muzhskoj-gorodskoj-ryukzak.html</url>
+                <oldprice>880</oldprice>
+                <price>699</price>
+                <currencyId>UAH</currencyId>
+                <categoryId>43986659</categoryId>
+                <picture>https://images.ua.prom.st/1715274422_muzhskoj-gorodskoj-ryukzak.jpg</picture>
+                <picture>https://images.ua.prom.st/1715274426_muzhskoj-gorodskoj-ryukzak.jpg</picture>
+                <picture>https://images.ua.prom.st/1715274424_muzhskoj-gorodskoj-ryukzak.jpg</picture>
+                <picture>https://images.ua.prom.st/1715274421_muzhskoj-gorodskoj-ryukzak.jpg</picture>
+                <picture>https://images.ua.prom.st/1715274399_muzhskoj-gorodskoj-ryukzak.jpg</picture>
+                <picture>https://images.ua.prom.st/1715274403_muzhskoj-gorodskoj-ryukzak.jpg</picture>
+                <picture>https://images.ua.prom.st/1715274420_muzhskoj-gorodskoj-ryukzak.jpg</picture>
+                <pickup>false</pickup>
+                <delivery>true</delivery>
+                <name>Мужской городской рюкзак черный</name>
+                <vendorCode>438</vendorCode>
+                <description> Мужской городской рюкзак черный Характеристики: Материал: Плотная и высококачественная ПУ
+                    кожа (полиуретан) – это высокосортный продукт, изготовленный по особым технологиям, своими
+                    свойствами по качеству не уступающий натуральной коже Есть отделение для ноутбука (вмещает
+                    стандартный ноутбук диагональю до 15,6 дюйма включительно) Высота: 44 см; Ширина: 30 см; Глубина: 13
+                    см; Достоинства: Широкие и плотные плечевые лямки; Морозостойкость (не лопается и не трескается на
+                    морозе); Не имеет постороннего запаха (что существенно отличает данный материал от дешевого
+                    кожзама); Тактильно и визуально материал очень похож на натуральную кожу (имеет богатый внешний
+                    вид); Мягкий и эластичный материал (хорошо выдерживает нагрузку); Товар полностью соответствует
+                    фото, при необходимости отправим Вам живые фото товара на Viber. Отправка в день заказа Отправка с
+                    г. Днепр, в большинство городов Украины доставка 1 день, сегодня заказали - завтра получили
+                    (подробнее уточняйте у менеджера при оформлении заказа) Прямые поставки с фабрик Работаем на прямую
+                    с проверенными фабриками, поэтому Вы получаете товар по самой выгодной цене на рынке Украины.
+                    Гарантия качества Гарантируем возврат или обмен товара в кратчайшие сроки, если Вас что-либо не
+                    устроит. Оплата при получении Отправляем наложенным платежом (оплата при получении), Вы оплачиваете
+                    товар после осмотра в отделении Новой Почты или Укрпочты. </description>
+                <param name="Пол">Мужской</param>
+                <param name="Материал">Искусственная кожа</param>
+                <param name="Состояние">Новое</param>
+                <param name="Глубина" unit="см">13</param>
+                <param name="Высота" unit="см">44</param>
+                <param name="Ширина" unit="см">30</param>
+                <param name="Цвет">Черный</param>
+                <param name="Вес" unit="г">900</param>
+                <param name="Тип">Городской</param>
+                <param name="Возрастная группа" unit="">Универсальный</param>
+            </offer>
+            <offer id="943523694" available="true">
+                <url>https://kirs.com.ua/p943523694-bolshoj-muzhskoj-ryukzak.html</url>
+                <oldprice>900</oldprice>
+                <price>749</price>
+                <currencyId>UAH</currencyId>
+                <categoryId>43986659</categoryId>
+                <picture>https://images.ua.prom.st/1715304844_bolshoj-muzhskoj-ryukzak.jpg</picture>
+                <picture>https://images.ua.prom.st/1715304846_bolshoj-muzhskoj-ryukzak.jpg</picture>
+                <picture>https://images.ua.prom.st/1715304838_bolshoj-muzhskoj-ryukzak.jpg</picture>
+                <picture>https://images.ua.prom.st/1715304841_bolshoj-muzhskoj-ryukzak.jpg</picture>
+                <picture>https://images.ua.prom.st/1715304839_bolshoj-muzhskoj-ryukzak.jpg</picture>
+                <picture>https://images.ua.prom.st/1715304840_bolshoj-muzhskoj-ryukzak.jpg</picture>
+                <pickup>false</pickup>
+                <delivery>true</delivery>
+                <name>Большой мужской рюкзак ПУ кожа</name>
+                <vendorCode>428-1</vendorCode>
+                <description> Большой мужской рюкзак ПУ кожа Характеристики: Материал: Плотная и высококачественная ПУ
+                    кожа (полиуретан) – это высокосортный продукт, изготовленный по особым технологиям, своими
+                    свойствами по качеству не уступающий натуральной коже Есть отделение для ноутбука (вмещает
+                    стандартный ноутбук диагональю до 15,6 дюйма включительно) Высота: 42 см; Ширина: 30 см; Глубина: 14
+                    см; Достоинства: Широкие и плотные плечевые лямки; Морозостойкость (не лопается и не трескается на
+                    морозе); Не имеет постороннего запаха (что существенно отличает данный материал от дешевого
+                    кожзама); Тактильно и визуально материал очень похож на натуральную кожу (имеет богатый внешний
+                    вид); Мягкий и эластичный материал (хорошо выдерживает нагрузку); Товар полностью соответствует
+                    фото, при необходимости отправим Вам живые фото товара на Viber. Отправка в день заказа Отправка с
+                    г. Днепр, в большинство городов Украины доставка 1 день, сегодня заказали - завтра получили
+                    (подробнее уточняйте у менеджера при оформлении заказа) Прямые поставки с фабрик Работаем на прямую
+                    с проверенными фабриками, поэтому Вы получаете товар по самой выгодной цене на рынке Украины.
+                    Гарантия качества Гарантируем возврат или обмен товара в кратчайшие сроки, если Вас что-либо не
+                    устроит. Оплата при получении Отправляем наложенным платежом (оплата при получении), Вы оплачиваете
+                    товар после осмотра в отделении Новой Почты или Укрпочты. </description>
+                <param name="Пол">Мужской</param>
+                <param name="Материал">Искусственная кожа</param>
+                <param name="Состояние">Новое</param>
+                <param name="Глубина" unit="см">14</param>
+                <param name="Высота" unit="см">42</param>
+                <param name="Ширина" unit="см">30</param>
+                <param name="Цвет">Черный</param>
+                <param name="Вес" unit="г">900</param>
+                <param name="Тип">Городской</param>
+                <param name="Возрастная группа" unit="">Универсальный</param>
+            </offer>
+            <offer id="943527531" available="true">
+                <url>https://kirs.com.ua/p943527531-bolshoj-muzhskoj-ryukzak.html</url>
+                <oldprice>900</oldprice>
+                <price>749</price>
+                <currencyId>UAH</currencyId>
+                <categoryId>43986659</categoryId>
+                <picture>https://images.ua.prom.st/1715307360_bolshoj-muzhskoj-ryukzak.jpg</picture>
+                <picture>https://images.ua.prom.st/1715306406_bolshoj-muzhskoj-ryukzak.jpg</picture>
+                <picture>https://images.ua.prom.st/1715306408_bolshoj-muzhskoj-ryukzak.jpg</picture>
+                <picture>https://images.ua.prom.st/1715306409_bolshoj-muzhskoj-ryukzak.jpg</picture>
+                <picture>https://images.ua.prom.st/1715307359_bolshoj-muzhskoj-ryukzak.jpg</picture>
+                <picture>https://images.ua.prom.st/1715307597_bolshoj-muzhskoj-ryukzak.jpg</picture>
+                <pickup>false</pickup>
+                <delivery>true</delivery>
+                <name>Большой мужской рюкзак PU кожа</name>
+                <vendorCode>428-2</vendorCode>
+                <description> Большой мужской рюкзак PU кожа Характеристики: Материал: Плотная и высококачественная ПУ
+                    кожа (полиуретан) – это высокосортный продукт, изготовленный по особым технологиям, своими
+                    свойствами по качеству не уступающий натуральной коже Есть отделение для ноутбука (вмещает
+                    стандартный ноутбук диагональю до 15,6 дюйма включительно) Высота: 42 см; Ширина: 30 см; Глубина: 14
+                    см; Достоинства: Широкие и плотные плечевые лямки; Морозостойкость (не лопается и не трескается на
+                    морозе); Не имеет постороннего запаха (что существенно отличает данный материал от дешевого
+                    кожзама); Тактильно и визуально материал очень похож на натуральную кожу (имеет богатый внешний
+                    вид); Мягкий и эластичный материал (хорошо выдерживает нагрузку); Товар полностью соответствует
+                    фото, при необходимости отправим Вам живые фото товара на Viber. Отправка в день заказа Отправка с
+                    г. Днепр, в большинство городов Украины доставка 1 день, сегодня заказали - завтра получили
+                    (подробнее уточняйте у менеджера при оформлении заказа) Прямые поставки с фабрик Работаем на прямую
+                    с проверенными фабриками, поэтому Вы получаете товар по самой выгодной цене на рынке Украины.
+                    Гарантия качества Гарантируем возврат или обмен товара в кратчайшие сроки, если Вас что-либо не
+                    устроит. Оплата при получении Отправляем наложенным платежом (оплата при получении), Вы оплачиваете
+                    товар после осмотра в отделении Новой Почты или Укрпочты. </description>
+                <param name="Пол">Мужской</param>
+                <param name="Материал">Искусственная кожа</param>
+                <param name="Состояние">Новое</param>
+                <param name="Глубина" unit="см">14</param>
+                <param name="Высота" unit="см">42</param>
+                <param name="Ширина" unit="см">30</param>
+                <param name="Цвет">Черный</param>
+                <param name="Вес" unit="г">900</param>
+                <param name="Тип">Городской</param>
+                <param name="Возрастная группа" unit="">Универсальный</param>
+            </offer>
+            <offer id="943528474" available="true">
+                <url>https://kirs.com.ua/p943528474-bolshoj-muzhskoj-ryukzak.html</url>
+                <oldprice>900</oldprice>
+                <price>749</price>
+                <currencyId>UAH</currencyId>
+                <categoryId>43986659</categoryId>
+                <picture>https://images.ua.prom.st/1715308177_bolshoj-muzhskoj-ryukzak.jpg</picture>
+                <picture>https://images.ua.prom.st/1715308178_bolshoj-muzhskoj-ryukzak.jpg</picture>
+                <picture>https://images.ua.prom.st/1715307864_bolshoj-muzhskoj-ryukzak.jpg</picture>
+                <picture>https://images.ua.prom.st/1715307867_bolshoj-muzhskoj-ryukzak.jpg</picture>
+                <picture>https://images.ua.prom.st/1715307868_bolshoj-muzhskoj-ryukzak.jpg</picture>
+                <picture>https://images.ua.prom.st/1715308183_bolshoj-muzhskoj-ryukzak.jpg</picture>
+                <pickup>false</pickup>
+                <delivery>true</delivery>
+                <name>Большой мужской рюкзак эко кожа</name>
+                <vendorCode>428-3</vendorCode>
+                <description> Большой мужской рюкзак эко кожа Характеристики: Материал: Плотная и высококачественная ПУ
+                    кожа (полиуретан) – это высокосортный продукт, изготовленный по особым технологиям, своими
+                    свойствами по качеству не уступающий натуральной коже Есть отделение для ноутбука (вмещает
+                    стандартный ноутбук диагональю до 15,6 дюйма включительно) Высота: 42 см; Ширина: 30 см; Глубина: 14
+                    см; Достоинства: Широкие и плотные плечевые лямки; Морозостойкость (не лопается и не трескается на
+                    морозе); Не имеет постороннего запаха (что существенно отличает данный материал от дешевого
+                    кожзама); Тактильно и визуально материал очень похож на натуральную кожу (имеет богатый внешний
+                    вид); Мягкий и эластичный материал (хорошо выдерживает нагрузку); Товар полностью соответствует
+                    фото, при необходимости отправим Вам живые фото товара на Viber. Отправка в день заказа Отправка с
+                    г. Днепр, в большинство городов Украины доставка 1 день, сегодня заказали - завтра получили
+                    (подробнее уточняйте у менеджера при оформлении заказа) Прямые поставки с фабрик Работаем на прямую
+                    с проверенными фабриками, поэтому Вы получаете товар по самой выгодной цене на рынке Украины.
+                    Гарантия качества Гарантируем возврат или обмен товара в кратчайшие сроки, если Вас что-либо не
+                    устроит. Оплата при получении Отправляем наложенным платежом (оплата при получении), Вы оплачиваете
+                    товар после осмотра в отделении Новой Почты или Укрпочты. </description>
+                <param name="Пол">Мужской</param>
+                <param name="Материал">Искусственная кожа</param>
+                <param name="Состояние">Новое</param>
+                <param name="Глубина" unit="см">14</param>
+                <param name="Высота" unit="см">42</param>
+                <param name="Ширина" unit="см">30</param>
+                <param name="Цвет">Черный</param>
+                <param name="Вес" unit="г">900</param>
+                <param name="Тип">Городской</param>
+                <param name="Возрастная группа" unit="">Универсальный</param>
+            </offer>
+            <offer id="965304751" available="true" group_id="334410069">
+                <url>https://kirs.com.ua/p965304751-gorodskoj-muzhskoj-ryukzak.html</url>
+                <oldprice>750</oldprice>
+                <price>549</price>
+                <currencyId>UAH</currencyId>
+                <categoryId>43986659</categoryId>
+                <picture>https://images.ua.prom.st/1774150697_gorodskoj-muzhskoj-ryukzak.jpg</picture>
+                <pickup>false</pickup>
+                <delivery>true</delivery>
+                <name>Городской мужской рюкзак кожзам Коричневый</name>
+                <vendorCode>410</vendorCode>
+                <description />
+                <param name="Пол">Мужской</param>
+                <param name="Материал">Искусственная кожа</param>
+                <param name="Состояние">Новое</param>
+                <param name="Тип">Городской</param>
+                <param name="Глубина" unit="см">15</param>
+                <param name="Высота" unit="см">45</param>
+                <param name="Ширина" unit="см">30</param>
+                <param name="Вес" unit="г">700</param>
+                <param name="Цвет">Коричневый</param>
+            </offer>
+            <offer id="1012882325" available="">
+                <url>https://kirs.com.ua/p1012882325-muzhskoj-gorodskoj-ryukzak.html</url>
+                <price>900</price>
+                <currencyId>UAH</currencyId>
+                <categoryId>43986659</categoryId>
+                <picture>https://images.ua.prom.st/1901536346_muzhskoj-gorodskoj-ryukzak.jpg</picture>
+                <picture>https://images.ua.prom.st/1901536345_muzhskoj-gorodskoj-ryukzak.jpg</picture>
+                <picture>https://images.ua.prom.st/1901536399_muzhskoj-gorodskoj-ryukzak.jpg</picture>
+                <picture>https://images.ua.prom.st/1901536341_muzhskoj-gorodskoj-ryukzak.jpg</picture>
+                <picture>https://images.ua.prom.st/1901536342_muzhskoj-gorodskoj-ryukzak.jpg</picture>
+                <picture>https://images.ua.prom.st/1901536343_muzhskoj-gorodskoj-ryukzak.jpg</picture>
+                <picture>https://images.ua.prom.st/1901536347_muzhskoj-gorodskoj-ryukzak.jpg</picture>
+                <picture>https://images.ua.prom.st/1901536355_muzhskoj-gorodskoj-ryukzak.jpg</picture>
+                <picture>https://images.ua.prom.st/1901536344_muzhskoj-gorodskoj-ryukzak.jpg</picture>
+                <pickup>false</pickup>
+                <delivery>true</delivery>
+                <name>Мужской городской рюкзак эко кожа + визитница в подарок</name>
+                <vendorCode>460</vendorCode>
+                <description> Мужской городской рюкзак эко кожа + визитница в подарок Характеристики: Материал: Плотная
+                    и высококачественная ПУ кожа (полиуретан) – это высокосортный продукт, изготовленный по особым
+                    технологиям, своими свойствами по качеству не уступающий натуральной коже Есть отделение для
+                    ноутбука (вмещает стандартный ноутбук диагональю до 15,6 дюйма включительно) Высота: 44 см; Ширина:
+                    30 см; Глубина: 16 см; Достоинства: Широкие и плотные плечевые лямки; Морозостойкость (не лопается и
+                    не трескается на морозе); Не имеет постороннего запаха (что существенно отличает данный материал от
+                    дешевого кожзама); Тактильно и визуально материал очень похож на натуральную кожу (имеет богатый
+                    внешний вид); Мягкий и эластичный материал (хорошо выдерживает нагрузку); Товар полностью
+                    соответствует фото, при необходимости отправим Вам живые фото товара на Viber. ПОДАРОК Оформите
+                    заказ прямо сейчас и гарантированно получите ПОДАРОК Качественная визитница - кардхолдер на 20 карт
+                    (цвет на выбор). Спешите, количество подарочного товара ограниченно. Отправка в день заказа Отправка
+                    с г. Днепр, в большинство городов Украины доставка 1 день, сегодня заказали - завтра получили
+                    (подробнее уточняйте у менеджера при оформлении заказа) Прямые поставки с фабрик Работаем на прямую
+                    с проверенными фабриками, поэтому Вы получаете товар по самой выгодной цене на рынке Украины.
+                    Гарантия качества Гарантируем возврат или обмен товара в кратчайшие сроки, если Вас что-либо не
+                    устроит. Оплата при получении Отправляем наложенным платежом (оплата при получении), Вы оплачиваете
+                    товар после осмотра в отделении Новой Почты или Укрпочты. </description>
+                <param name="Пол">Мужской</param>
+                <param name="Материал">Искусственная кожа</param>
+                <param name="Состояние">Новое</param>
+                <param name="Тип">Городской</param>
+                <param name="Глубина" unit="см">16</param>
+                <param name="Высота" unit="см">44</param>
+                <param name="Ширина" unit="см">30</param>
+                <param name="Вес" unit="г">800</param>
+                <param name="Цвет">Черный</param>
+                <param name="Возрастная группа" unit="">Универсальный</param>
+            </offer>
+            <offer id="1013633988" available="">
+                <url>https://kirs.com.ua/p1013633988-chernyj-muzhskoj-gorodskoj.html</url>
+                <price>900</price>
+                <currencyId>UAH</currencyId>
+                <categoryId>43986659</categoryId>
+                <picture>https://images.ua.prom.st/1903241010_chernyj-muzhskoj-gorodskoj.jpg</picture>
+                <picture>https://images.ua.prom.st/1903241007_chernyj-muzhskoj-gorodskoj.jpg</picture>
+                <picture>https://images.ua.prom.st/1903241008_chernyj-muzhskoj-gorodskoj.jpg</picture>
+                <picture>https://images.ua.prom.st/1903241004_chernyj-muzhskoj-gorodskoj.jpg</picture>
+                <picture>https://images.ua.prom.st/1903241005_chernyj-muzhskoj-gorodskoj.jpg</picture>
+                <picture>https://images.ua.prom.st/1903241006_chernyj-muzhskoj-gorodskoj.jpg</picture>
+                <picture>https://images.ua.prom.st/1903241009_chernyj-muzhskoj-gorodskoj.jpg</picture>
+                <pickup>false</pickup>
+                <delivery>true</delivery>
+                <name>Черный мужской городской рюкзак</name>
+                <vendor>Фабричный Китай</vendor>
+                <vendorCode>469</vendorCode>
+                <country_of_origin>Китай</country_of_origin>
+                <description> Черный мужской городской рюкзак Характеристики: Материал: Плотная и высококачественная ПУ
+                    кожа (полиуретан) – это высокосортный продукт, изготовленный по особым технологиям, своими
+                    свойствами по качеству не уступающий натуральной коже Есть отделение для ноутбука (вмещает
+                    стандартный ноутбук диагональю до 15,6 дюйма включительно) Высота: 44 см; Ширина: 29 см; Глубина: 10
+                    см; Достоинства: Широкие и плотные плечевые лямки; Морозостойкость (не лопается и не трескается на
+                    морозе); Не имеет постороннего запаха (что существенно отличает данный материал от дешевого
+                    кожзама); Тактильно и визуально материал очень похож на натуральную кожу (имеет богатый внешний
+                    вид); Мягкий и эластичный материал (хорошо выдерживает нагрузку); Товар полностью соответствует
+                    фото, при необходимости отправим Вам живые фото товара на Viber. Отправка в день заказа Отправка с
+                    г. Днепр, в большинство городов Украины доставка 1 день, сегодня заказали - завтра получили
+                    (подробнее уточняйте у менеджера при оформлении заказа) Прямые поставки с фабрик Работаем на прямую
+                    с проверенными фабриками, поэтому Вы получаете товар по самой выгодной цене на рынке Украины.
+                    Гарантия качества Гарантируем возврат или обмен товара в кратчайшие сроки, если Вас что-либо не
+                    устроит. Оплата при получении Отправляем наложенным платежом (оплата при получении), Вы оплачиваете
+                    товар после осмотра в отделении Новой Почты или Укрпочты. </description>
+                <param name="Пол">Мужской</param>
+                <param name="Материал">Искусственная кожа</param>
+                <param name="Состояние">Новое</param>
+                <param name="Глубина" unit="см">10</param>
+                <param name="Высота" unit="см">44</param>
+                <param name="Ширина" unit="см">29</param>
+                <param name="Цвет">Черный</param>
+                <param name="Вес" unit="г">700</param>
+                <param name="Тип">Городской</param>
+                <param name="Возрастная группа" unit="">Универсальный</param>
+            </offer>
+            <offer id="1022381110" available="true">
+                <url>https://kirs.com.ua/p1022381110-vmestitelnyj-muzhskoj-ryukzak.html</url>
+                <oldprice>770</oldprice>
+                <price>599</price>
+                <currencyId>UAH</currencyId>
+                <categoryId>43986659</categoryId>
+                <picture>https://images.ua.prom.st/1927193538_vmestitelnyj-muzhskoj-ryukzak.jpg</picture>
+                <picture>https://images.ua.prom.st/1927193535_vmestitelnyj-muzhskoj-ryukzak.jpg</picture>
+                <picture>https://images.ua.prom.st/1927193531_vmestitelnyj-muzhskoj-ryukzak.jpg</picture>
+                <picture>https://images.ua.prom.st/1927193448_vmestitelnyj-muzhskoj-ryukzak.jpg</picture>
+                <picture>https://images.ua.prom.st/1927193485_vmestitelnyj-muzhskoj-ryukzak.jpg</picture>
+                <picture>https://images.ua.prom.st/1927193523_vmestitelnyj-muzhskoj-ryukzak.jpg</picture>
+                <picture>https://images.ua.prom.st/1927193526_vmestitelnyj-muzhskoj-ryukzak.jpg</picture>
+                <picture>https://images.ua.prom.st/1927193528_vmestitelnyj-muzhskoj-ryukzak.jpg</picture>
+                <picture>https://images.ua.prom.st/1927193539_vmestitelnyj-muzhskoj-ryukzak.jpg</picture>
+                <picture>https://images.ua.prom.st/1927193549_vmestitelnyj-muzhskoj-ryukzak.jpg</picture>
+                <pickup>false</pickup>
+                <delivery>true</delivery>
+                <name>Вместительный мужской рюкзак эко кожа</name>
+                <vendorCode>245</vendorCode>
+                <description> Вместительный мужской рюкзак эко кожа Характеристики: Материал: Плотная и
+                    высококачественная ПУ кожа (полиуретан) – это высокосортный продукт, изготовленный по особым
+                    технологиям, своими свойствами по качеству не уступающий натуральной коже Есть отделение для
+                    ноутбука (вмещает стандартный ноутбук диагональю до 15,6 дюйма включительно) В наличии цвета:
+                    черный/коричневый; Высота: 45 см; Ширина: 30 см; Глубина: 15 см; Достоинства: Широкие и плотные
+                    плечевые лямки; Морозостойкость (не лопается и не трескается на морозе); Не имеет постороннего
+                    запаха (что существенно отличает данный материал от дешевого кожзама); Тактильно и визуально
+                    материал очень похож на натуральную кожу (имеет богатый внешний вид); Мягкий и эластичный материал
+                    (хорошо выдерживает нагрузку); Товар полностью соответствует фото, при необходимости отправим Вам
+                    живые фото товара на Viber. Отправка в день заказа Отправка с г. Днепр, в большинство городов
+                    Украины доставка 1 день, сегодня заказали - завтра получили (подробнее уточняйте у менеджера при
+                    оформлении заказа) Прямые поставки с фабрик Работаем на прямую с проверенными фабриками, поэтому Вы
+                    получаете товар по самой выгодной цене на рынке Украины. Гарантия качества Гарантируем возврат или
+                    обмен товара в кратчайшие сроки, если Вас что-либо не устроит. Оплата при получении Отправляем
+                    наложенным платежом (оплата при получении), Вы оплачиваете товар после осмотра в отделении Новой
+                    Почты или Укрпочты. </description>
+                <param name="Пол">Мужской</param>
+                <param name="Материал">Искусственная кожа</param>
+                <param name="Состояние">Новое</param>
+                <param name="Тип">Городской</param>
+                <param name="Глубина" unit="см">15</param>
+                <param name="Высота" unit="см">45</param>
+                <param name="Ширина" unit="см">30</param>
+                <param name="Вес" unit="г">700</param>
+                <param name="Возрастная группа" unit="">Универсальный</param>
+            </offer>
+            <offer id="1022415493" available="true">
+                <url>https://kirs.com.ua/p1022415493-muzhskoj-kachestvennyj-ryukzak.html</url>
+                <oldprice>760</oldprice>
+                <price>559</price>
+                <currencyId>UAH</currencyId>
+                <categoryId>43986659</categoryId>
+                <picture>https://images.ua.prom.st/1927260689_muzhskoj-kachestvennyj-ryukzak.jpg</picture>
+                <picture>https://images.ua.prom.st/1927260687_muzhskoj-kachestvennyj-ryukzak.jpg</picture>
+                <picture>https://images.ua.prom.st/1927260691_muzhskoj-kachestvennyj-ryukzak.jpg</picture>
+                <picture>https://images.ua.prom.st/1927260693_muzhskoj-kachestvennyj-ryukzak.jpg</picture>
+                <picture>https://images.ua.prom.st/1927260709_muzhskoj-kachestvennyj-ryukzak.jpg</picture>
+                <picture>https://images.ua.prom.st/1927260710_muzhskoj-kachestvennyj-ryukzak.jpg</picture>
+                <picture>https://images.ua.prom.st/1927260736_muzhskoj-kachestvennyj-ryukzak.jpg</picture>
+                <picture>https://images.ua.prom.st/1927260738_muzhskoj-kachestvennyj-ryukzak.jpg</picture>
+                <picture>https://images.ua.prom.st/1927265884_muzhskoj-kachestvennyj-ryukzak.jpg</picture>
+                <pickup>false</pickup>
+                <delivery>true</delivery>
+                <name>Мужской качественный рюкзак для города</name>
+                <vendorCode>393</vendorCode>
+                <description> Мужской качественный рюкзак для города Характеристики: Материал: Плотная и
+                    высококачественная ПУ кожа (полиуретан) – это высокосортный продукт, изготовленный по особым
+                    технологиям, своими свойствами по качеству не уступающий натуральной коже Есть отделение для
+                    ноутбука (вмещает стандартный ноутбук диагональю до 15,6 дюйма включительно) Цвет:
+                    черный/коричневый; Высота: 45 см; Ширина: 30 см; Глубина: 15 см; Достоинства: Широкие и плотные
+                    плечевые лямки; Морозостойкость (не лопается и не трескается на морозе); Не имеет постороннего
+                    запаха (что существенно отличает данный материал от дешевого кожзама); Тактильно и визуально
+                    материал очень похож на натуральную кожу (имеет богатый внешний вид); Мягкий и эластичный материал
+                    (хорошо выдерживает нагрузку); Товар полностью соответствует фото, при необходимости отправим Вам
+                    живые фото товара на Viber. Отправка в день заказа Отправка с г. Днепр, в большинство городов
+                    Украины доставка 1 день, сегодня заказали - завтра получили (подробнее уточняйте у менеджера при
+                    оформлении заказа) Прямые поставки с фабрик Работаем на прямую с проверенными фабриками, поэтому Вы
+                    получаете товар по самой выгодной цене на рынке Украины. Гарантия качества Гарантируем возврат или
+                    обмен товара в кратчайшие сроки, если Вас что-либо не устроит. Оплата при получении Отправляем
+                    наложенным платежом (оплата при получении), Вы оплачиваете товар после осмотра в отделении Новой
+                    Почты или Укрпочты. </description>
+                <param name="Пол">Мужской</param>
+                <param name="Материал">Искусственная кожа</param>
+                <param name="Состояние">Новое</param>
+                <param name="Тип">Городской</param>
+                <param name="Глубина" unit="см">15</param>
+                <param name="Высота" unit="см">45</param>
+                <param name="Ширина" unit="см">30</param>
+                <param name="Вес" unit="г">730</param>
+                <param name="Возрастная группа" unit="">Универсальный</param>
+            </offer>
+            <offer id="1022437237" available="true">
+                <url>https://kirs.com.ua/p1022437237-stilnyj-muzhskoj-ryukzak.html</url>
+                <oldprice>760</oldprice>
+                <price>559</price>
+                <currencyId>UAH</currencyId>
+                <categoryId>43986659</categoryId>
+                <picture>https://images.ua.prom.st/1927292991_stilnyj-muzhskoj-ryukzak.jpg</picture>
+                <picture>https://images.ua.prom.st/1927289585_stilnyj-muzhskoj-ryukzak.jpg</picture>
+                <picture>https://images.ua.prom.st/1927289586_stilnyj-muzhskoj-ryukzak.jpg</picture>
+                <picture>https://images.ua.prom.st/1927292992_stilnyj-muzhskoj-ryukzak.jpg</picture>
+                <picture>https://images.ua.prom.st/1927289587_stilnyj-muzhskoj-ryukzak.jpg</picture>
+                <picture>https://images.ua.prom.st/1927289588_stilnyj-muzhskoj-ryukzak.jpg</picture>
+                <picture>https://images.ua.prom.st/1927289598_stilnyj-muzhskoj-ryukzak.jpg</picture>
+                <picture>https://images.ua.prom.st/1927289600_stilnyj-muzhskoj-ryukzak.jpg</picture>
+                <picture>https://images.ua.prom.st/1927289601_stilnyj-muzhskoj-ryukzak.jpg</picture>
+                <picture>https://images.ua.prom.st/1927289602_stilnyj-muzhskoj-ryukzak.jpg</picture>
+                <pickup>false</pickup>
+                <delivery>true</delivery>
+                <name>Стильный мужской рюкзак повседневный</name>
+                <vendorCode>394</vendorCode>
+                <description> Стильный мужской рюкзак повседневный Характеристики: Материал: Плотная и
+                    высококачественная ПУ кожа (полиуретан) – это высокосортный продукт, изготовленный по особым
+                    технологиям, своими свойствами по качеству не уступающий натуральной коже Есть отделение для
+                    ноутбука (вмещает стандартный ноутбук диагональю до 15,6 дюйма включительно) Цвет:
+                    черный/коричневый; Высота: 44 см; Ширина: 31 см; Глубина: 12 см; Достоинства: Широкие и плотные
+                    плечевые лямки; Морозостойкость (не лопается и не трескается на морозе); Не имеет постороннего
+                    запаха (что существенно отличает данный материал от дешевого кожзама); Тактильно и визуально
+                    материал очень похож на натуральную кожу (имеет богатый внешний вид); Мягкий и эластичный материал
+                    (хорошо выдерживает нагрузку); Товар полностью соответствует фото, при необходимости отправим Вам
+                    живые фото товара на Viber. Отправка в день заказа Отправка с г. Днепр, в большинство городов
+                    Украины доставка 1 день, сегодня заказали - завтра получили (подробнее уточняйте у менеджера при
+                    оформлении заказа) Прямые поставки с фабрик Работаем на прямую с проверенными фабриками, поэтому Вы
+                    получаете товар по самой выгодной цене на рынке Украины. Гарантия качества Гарантируем возврат или
+                    обмен товара в кратчайшие сроки, если Вас что-либо не устроит. Оплата при получении Отправляем
+                    наложенным платежом (оплата при получении), Вы оплачиваете товар после осмотра в отделении Новой
+                    Почты или Укрпочты. </description>
+                <param name="Пол">Унисекс</param>
+                <param name="Материал">Искусственная кожа</param>
+                <param name="Состояние">Новое</param>
+                <param name="Тип">Городской</param>
+                <param name="Глубина" unit="см">12</param>
+                <param name="Высота" unit="см">44</param>
+                <param name="Ширина" unit="см">31</param>
+                <param name="Вес" unit="г">700</param>
+                <param name="Возрастная группа" unit="">Универсальный</param>
+            </offer>
+            <offer id="1022442992" available="true">
+                <url>https://kirs.com.ua/p1022442992-vmestitelnyj-gorodskoj-ryukzak.html</url>
+                <oldprice>1000</oldprice>
+                <price>899</price>
+                <currencyId>UAH</currencyId>
+                <categoryId>43986659</categoryId>
+                <picture>https://images.ua.prom.st/1927312363_vmestitelnyj-gorodskoj-ryukzak.jpg</picture>
+                <picture>https://images.ua.prom.st/1927312362_vmestitelnyj-gorodskoj-ryukzak.jpg</picture>
+                <picture>https://images.ua.prom.st/1927312350_vmestitelnyj-gorodskoj-ryukzak.jpg</picture>
+                <picture>https://images.ua.prom.st/1927312357_vmestitelnyj-gorodskoj-ryukzak.jpg</picture>
+                <picture>https://images.ua.prom.st/1927312358_vmestitelnyj-gorodskoj-ryukzak.jpg</picture>
+                <picture>https://images.ua.prom.st/1927312359_vmestitelnyj-gorodskoj-ryukzak.jpg</picture>
+                <picture>https://images.ua.prom.st/1927312360_vmestitelnyj-gorodskoj-ryukzak.jpg</picture>
+                <picture>https://images.ua.prom.st/1927312372_vmestitelnyj-gorodskoj-ryukzak.jpg</picture>
+                <picture>https://images.ua.prom.st/1927312380_vmestitelnyj-gorodskoj-ryukzak.jpg</picture>
+                <pickup>false</pickup>
+                <delivery>true</delivery>
+                <name>Вместительный городской рюкзак с отправкой в день заказа</name>
+                <vendorCode>413</vendorCode>
+                <description> Вместительный городской рюкзак с отправкой в день заказа Характеристики: Материал: Плотная
+                    и высококачественная ПУ кожа (полиуретан) – это высокосортный продукт, изготовленный по особым
+                    технологиям, своими свойствами по качеству не уступающий натуральной коже Вмещает стандартный
+                    ноутбук диагональю до 15,6 дюйма включительно; Высота: 42 см; Ширина: 30 см; Глубина: 15 см;
+                    Достоинства: Широкие и плотные плечевые лямки; Морозостойкость (не лопается и не трескается на
+                    морозе); Не имеет постороннего запаха (что существенно отличает данный материал от дешевого
+                    кожзама); Тактильно и визуально материал очень похож на натуральную кожу (имеет богатый внешний
+                    вид); Мягкий и эластичный материал (хорошо выдерживает нагрузку); Товар полностью соответствует
+                    фото, при необходимости отправим Вам живые фото товара на Viber. Отправка в день заказа Отправка с
+                    г. Днепр, в большинство городов Украины доставка 1 день, сегодня заказали - завтра получили
+                    (подробнее уточняйте у менеджера при оформлении заказа) Прямые поставки с фабрик Работаем на прямую
+                    с проверенными фабриками, поэтому Вы получаете товар по самой выгодной цене на рынке Украины.
+                    Гарантия качества Гарантируем возврат или обмен товара в кратчайшие сроки, если Вас что-либо не
+                    устроит. Оплата при получении Отправляем наложенным платежом (оплата при получении), Вы оплачиваете
+                    товар после осмотра в отделении Новой Почты или Укрпочты. </description>
+                <param name="Пол">Мужской</param>
+                <param name="Материал">Искусственная кожа</param>
+                <param name="Состояние">Новое</param>
+                <param name="Тип">Городской</param>
+                <param name="Глубина" unit="см">15</param>
+                <param name="Высота" unit="см">42</param>
+                <param name="Ширина" unit="см">30</param>
+                <param name="Вес" unit="г">990</param>
+                <param name="Цвет">Черный</param>
+                <param name="Возрастная группа" unit="">Универсальный</param>
+            </offer>
+            <offer id="1022469365" available="">
+                <url>https://kirs.com.ua/p1022469365-kachestvennyj-gorodskoj-ryukzak.html</url>
+                <price>800</price>
+                <currencyId>UAH</currencyId>
+                <categoryId>43986659</categoryId>
+                <picture>https://images.ua.prom.st/1927355973_kachestvennyj-gorodskoj-ryukzak.jpg</picture>
+                <picture>https://images.ua.prom.st/1927355963_kachestvennyj-gorodskoj-ryukzak.jpg</picture>
+                <picture>https://images.ua.prom.st/1927355942_kachestvennyj-gorodskoj-ryukzak.jpg</picture>
+                <picture>https://images.ua.prom.st/1927355961_kachestvennyj-gorodskoj-ryukzak.jpg</picture>
+                <picture>https://images.ua.prom.st/1927355966_kachestvennyj-gorodskoj-ryukzak.jpg</picture>
+                <picture>https://images.ua.prom.st/1927355968_kachestvennyj-gorodskoj-ryukzak.jpg</picture>
+                <picture>https://images.ua.prom.st/1927355970_kachestvennyj-gorodskoj-ryukzak.jpg</picture>
+                <picture>https://images.ua.prom.st/1927355972_kachestvennyj-gorodskoj-ryukzak.jpg</picture>
+                <picture>https://images.ua.prom.st/1927355974_kachestvennyj-gorodskoj-ryukzak.jpg</picture>
+                <pickup>false</pickup>
+                <delivery>true</delivery>
+                <name>Качественный городской рюкзак эко кожа</name>
+                <vendorCode>460</vendorCode>
+                <description> Качественный городской рюкзак эко кожа Характеристики: Материал: Плотная и
+                    высококачественная ПУ кожа (полиуретан) – это высокосортный продукт, изготовленный по особым
+                    технологиям, своими свойствами по качеству не уступающий натуральной коже Есть отделение для
+                    ноутбука (вмещает стандартный ноутбук диагональю до 15,6 дюйма включительно) Высота: 44 см; Ширина:
+                    30 см; Глубина: 16 см; Достоинства: Широкие и плотные плечевые лямки; Морозостойкость (не лопается и
+                    не трескается на морозе); Не имеет постороннего запаха (что существенно отличает данный материал от
+                    дешевого кожзама); Тактильно и визуально материал очень похож на натуральную кожу (имеет богатый
+                    внешний вид); Мягкий и эластичный материал (хорошо выдерживает нагрузку); Товар полностью
+                    соответствует фото, при необходимости отправим Вам живые фото товара на Viber. Отправка в день
+                    заказа Отправка с г. Днепр, в большинство городов Украины доставка 1 день, сегодня заказали - завтра
+                    получили (подробнее уточняйте у менеджера при оформлении заказа) Прямые поставки с фабрик Работаем
+                    на прямую с проверенными фабриками, поэтому Вы получаете товар по самой выгодной цене на рынке
+                    Украины. Гарантия качества Гарантируем возврат или обмен товара в кратчайшие сроки, если Вас
+                    что-либо не устроит. Оплата при получении Отправляем наложенным платежом (оплата при получении), Вы
+                    оплачиваете товар после осмотра в отделении Новой Почты или Укрпочты. </description>
+                <param name="Пол">Мужской</param>
+                <param name="Материал">Искусственная кожа</param>
+                <param name="Состояние">Новое</param>
+                <param name="Тип">Городской</param>
+                <param name="Глубина" unit="см">16</param>
+                <param name="Высота" unit="см">44</param>
+                <param name="Ширина" unit="см">30</param>
+                <param name="Вес" unit="г">800</param>
+                <param name="Цвет">Черный</param>
+                <param name="Возрастная группа" unit="">Универсальный</param>
+            </offer>
+            <offer id="1022515598" available="true" group_id="606809637">
+                <url>https://kirs.com.ua/p1022515598-kachestvennyj-muzhskoj-ryukzak.html</url>
+                <oldprice>1100</oldprice>
+                <price>899</price>
+                <currencyId>UAH</currencyId>
+                <categoryId>43986659</categoryId>
+                <picture>https://images.ua.prom.st/1927462699_kachestvennyj-muzhskoj-ryukzak.jpg</picture>
+                <picture>https://images.ua.prom.st/1927462700_kachestvennyj-muzhskoj-ryukzak.jpg</picture>
+                <picture>https://images.ua.prom.st/1927462701_kachestvennyj-muzhskoj-ryukzak.jpg</picture>
+                <picture>https://images.ua.prom.st/1927462705_kachestvennyj-muzhskoj-ryukzak.jpg</picture>
+                <picture>https://images.ua.prom.st/1927462706_kachestvennyj-muzhskoj-ryukzak.jpg</picture>
+                <picture>https://images.ua.prom.st/1927462707_kachestvennyj-muzhskoj-ryukzak.jpg</picture>
+                <picture>https://images.ua.prom.st/1927462708_kachestvennyj-muzhskoj-ryukzak.jpg</picture>
+                <picture>https://images.ua.prom.st/1927462709_kachestvennyj-muzhskoj-ryukzak.jpg</picture>
+                <picture>https://images.ua.prom.st/1927462711_kachestvennyj-muzhskoj-ryukzak.jpg</picture>
+                <picture>https://images.ua.prom.st/1927462695_kachestvennyj-muzhskoj-ryukzak.jpg</picture>
+                <pickup>false</pickup>
+                <delivery>true</delivery>
+                <name>Качественный мужской рюкзак + подарок кредитница Черный</name>
+                <vendorCode>425</vendorCode>
+                <description />
+                <param name="Цвет">Черный</param>
+                <param name="Пол">Мужской</param>
+                <param name="Тип">Городской</param>
+                <param name="Материал">Искусственная кожа</param>
+                <param name="Глубина" unit="см">13</param>
+                <param name="Высота" unit="см">39</param>
+                <param name="Ширина" unit="см">29</param>
+                <param name="Вес" unit="г">800</param>
+                <param name="Состояние">Новое</param>
+            </offer>
+            <offer id="1022549311" available="true">
+                <url>https://kirs.com.ua/p1022549311-stilnyj-gorodskoj-ryukzak.html</url>
+                <oldprice>970</oldprice>
+                <price>899</price>
+                <currencyId>UAH</currencyId>
+                <categoryId>43986659</categoryId>
+                <picture>https://images.ua.prom.st/1927512521_stilnyj-gorodskoj-ryukzak.jpg</picture>
+                <picture>https://images.ua.prom.st/1927512512_stilnyj-gorodskoj-ryukzak.jpg</picture>
+                <picture>https://images.ua.prom.st/1927512516_stilnyj-gorodskoj-ryukzak.jpg</picture>
+                <picture>https://images.ua.prom.st/1927512522_stilnyj-gorodskoj-ryukzak.jpg</picture>
+                <picture>https://images.ua.prom.st/1927512523_stilnyj-gorodskoj-ryukzak.jpg</picture>
+                <picture>https://images.ua.prom.st/1927512524_stilnyj-gorodskoj-ryukzak.jpg</picture>
+                <picture>https://images.ua.prom.st/2765962072_stilnyj-gorodskoj-ryukzak.jpg</picture>
+                <picture>https://images.ua.prom.st/2765962073_stilnyj-gorodskoj-ryukzak.jpg</picture>
+                <picture>https://images.ua.prom.st/2765962074_stilnyj-gorodskoj-ryukzak.jpg</picture>
+                <picture>https://images.ua.prom.st/2765962075_stilnyj-gorodskoj-ryukzak.jpg</picture>
+                <pickup>false</pickup>
+                <delivery>true</delivery>
+                <name>Стильный городской рюкзак мужской</name>
+                <vendor>Eton</vendor>
+                <vendorCode>425</vendorCode>
+                <country_of_origin>Китай</country_of_origin>
+                <description> Стильный городской рюкзак мужской Характеристики: Материал: Плотная и высококачественная
+                    ПУ кожа (полиуретан) – это высокосортный продукт, изготовленный по особым технологиям, своими
+                    свойствами по качеству не уступающий натуральной коже Есть отделение для ноутбука (вмещает
+                    стандартный ноутбук диагональю до 15,6 дюйма включительно или можно положить планшет); Высота: 39
+                    см; Ширина: 29 см; Глубина: 13 см; Достоинства: Широкие и плотные плечевые лямки; Морозостойкость
+                    (не лопается и не трескается на морозе); Не имеет постороннего запаха (что существенно отличает
+                    данный материал от дешевого кожзама); Тактильно и визуально материал очень похож на натуральную кожу
+                    (имеет богатый внешний вид); Мягкий и эластичный материал (хорошо выдерживает нагрузку); Товар
+                    полностью соответствует фото, при необходимости отправим Вам живые фото товара на Viber. Отправка в
+                    день заказа Отправка с г. Днепр, в большинство городов Украины доставка 1 день, сегодня заказали -
+                    завтра получили (подробнее уточняйте у менеджера при оформлении заказа) Прямые поставки с фабрик
+                    Работаем на прямую с проверенными фабриками, поэтому Вы получаете товар по самой выгодной цене на
+                    рынке Украины. Гарантия качества Гарантируем возврат или обмен товара в кратчайшие сроки, если Вас
+                    что-либо не устроит. Оплата при получении Отправляем наложенным платежом (оплата при получении), Вы
+                    оплачиваете товар после осмотра в отделении Новой Почты или Укрпочты. </description>
+                <param name="Цвет">Коричневый</param>
+                <param name="Пол">Мужской</param>
+                <param name="Тип">Городской</param>
+                <param name="Возрастная группа">Взрослая</param>
+                <param name="Материал">Искусственная кожа</param>
+                <param name="Глубина" unit="см">13</param>
+                <param name="Высота" unit="см">39</param>
+                <param name="Ширина" unit="см">29</param>
+                <param name="Вес" unit="г">800</param>
+                <param name="Узоры и принты">Без узоров и принтов</param>
+                <param name="Состояние">Новое</param>
+            </offer>
+            <offer id="1022598728" available="true">
+                <url>https://kirs.com.ua/p1022598728-povsednevnyj-muzhskoj-ryukzak.html</url>
+                <oldprice>760</oldprice>
+                <price>559</price>
+                <currencyId>UAH</currencyId>
+                <categoryId>43986659</categoryId>
+                <picture>https://images.ua.prom.st/1927591178_povsednevnyj-muzhskoj-ryukzak.jpg</picture>
+                <picture>https://images.ua.prom.st/1927591188_povsednevnyj-muzhskoj-ryukzak.jpg</picture>
+                <picture>https://images.ua.prom.st/1927591182_povsednevnyj-muzhskoj-ryukzak.jpg</picture>
+                <picture>https://images.ua.prom.st/1927591183_povsednevnyj-muzhskoj-ryukzak.jpg</picture>
+                <picture>https://images.ua.prom.st/1927591184_povsednevnyj-muzhskoj-ryukzak.jpg</picture>
+                <picture>https://images.ua.prom.st/1927591185_povsednevnyj-muzhskoj-ryukzak.jpg</picture>
+                <picture>https://images.ua.prom.st/1927591186_povsednevnyj-muzhskoj-ryukzak.jpg</picture>
+                <pickup>false</pickup>
+                <delivery>true</delivery>
+                <name>Повседневный мужской рюкзак PU кожа</name>
+                <vendor>Фабричный Китай</vendor>
+                <vendorCode>200</vendorCode>
+                <country_of_origin>Китай</country_of_origin>
+                <description> Повседневный мужской рюкзак PU кожа Характеристики: Материал: Плотная и высококачественная
+                    ПУ кожа (полиуретан) – это высокосортный продукт, изготовленный по особым технологиям, своими
+                    свойствами по качеству не уступающий натуральной коже Есть отделение для ноутбука (вмещает
+                    стандартный ноутбук диагональю до 15,6 дюйма включительно) Высота: 44 см; Ширина: 29 см; Глубина: 13
+                    см; Достоинства: Широкие и плотные плечевые лямки; Морозостойкость (не лопается и не трескается на
+                    морозе); Не имеет постороннего запаха (что существенно отличает данный материал от дешевого
+                    кожзама); Тактильно и визуально материал очень похож на натуральную кожу (имеет богатый внешний
+                    вид); Мягкий и эластичный материал (хорошо выдерживает нагрузку); Товар полностью соответствует
+                    фото, при необходимости отправим Вам живые фото товара на Viber. Отправка в день заказа Отправка с
+                    г. Днепр, в большинство городов Украины доставка 1 день, сегодня заказали - завтра получили
+                    (подробнее уточняйте у менеджера при оформлении заказа) Прямые поставки с фабрик Работаем на прямую
+                    с проверенными фабриками, поэтому Вы получаете товар по самой выгодной цене на рынке Украины.
+                    Гарантия качества Гарантируем возврат или обмен товара в кратчайшие сроки, если Вас что-либо не
+                    устроит. Оплата при получении Отправляем наложенным платежом (оплата при получении), Вы оплачиваете
+                    товар после осмотра в отделении Новой Почты или Укрпочты. </description>
+                <param name="Высота" unit="см">44</param>
+                <param name="Пол">Унисекс</param>
+                <param name="Состояние">Новое</param>
+                <param name="Ширина" unit="см">29</param>
+                <param name="Глубина" unit="см">13</param>
+                <param name="Материал">Искусственная кожа</param>
+                <param name="Вес" unit="г">590</param>
+                <param name="Возрастная группа">Взрослая</param>
+            </offer>
+            <offer id="1022605624" available="true" group_id="42401368">
+                <url>https://kirs.com.ua/p1022605624-vintazhnyj-muzhskoj-ryukzak.html</url>
+                <oldprice>800</oldprice>
+                <price>599</price>
+                <currencyId>UAH</currencyId>
+                <categoryId>43986659</categoryId>
+                <picture>https://images.ua.prom.st/1927597683_vintazhnyj-muzhskoj-ryukzak.jpg</picture>
+                <picture>https://images.ua.prom.st/1927597685_vintazhnyj-muzhskoj-ryukzak.jpg</picture>
+                <picture>https://images.ua.prom.st/1927597687_vintazhnyj-muzhskoj-ryukzak.jpg</picture>
+                <picture>https://images.ua.prom.st/1927597689_vintazhnyj-muzhskoj-ryukzak.jpg</picture>
+                <picture>https://images.ua.prom.st/1927597690_vintazhnyj-muzhskoj-ryukzak.jpg</picture>
+                <picture>https://images.ua.prom.st/2959361962_vintazhnyj-muzhskoj-ryukzak.jpg</picture>
+                <picture>https://images.ua.prom.st/2959361964_vintazhnyj-muzhskoj-ryukzak.jpg</picture>
+                <picture>https://images.ua.prom.st/2959361963_vintazhnyj-muzhskoj-ryukzak.jpg</picture>
+                <picture>https://images.ua.prom.st/2959361961_vintazhnyj-muzhskoj-ryukzak.jpg</picture>
+                <picture>https://images.ua.prom.st/2959361960_vintazhnyj-muzhskoj-ryukzak.jpg</picture>
+                <pickup>false</pickup>
+                <delivery>true</delivery>
+                <name>Винтажный мужской рюкзак эко кожа</name>
+                <vendor>Фабричный Китай</vendor>
+                <vendorCode>193</vendorCode>
+                <country_of_origin>Китай</country_of_origin>
+                <description> Винтажный мужской рюкзак эко кожа Характеристики: Материал: Плотная и высококачественная
+                    ПУ кожа (полиуретан) – это высокосортный продукт, изготовленный по особым технологиям, своими
+                    свойствами по качеству не уступающий натуральной коже Цвет: черный/коричневый; Высота: 40 см;
+                    Ширина: 30 см; Глубина: 15 см; Достоинства: Широкие и плотные плечевые лямки; Морозостойкость (не
+                    лопается и не трескается на морозе); Не имеет постороннего запаха (что существенно отличает данный
+                    материал от дешевого кожзама); Тактильно и визуально материал очень похож на натуральную кожу (имеет
+                    богатый внешний вид); Мягкий и эластичный материал (хорошо выдерживает нагрузку); Товар полностью
+                    соответствует фото, при необходимости отправим Вам живые фото товара на Viber. Отправка в день
+                    заказа Отправка с г. Днепр, в большинство городов Украины доставка 1 день, сегодня заказали - завтра
+                    получили (подробнее уточняйте у менеджера при оформлении заказа) Прямые поставки с фабрик Работаем
+                    на прямую с проверенными фабриками, поэтому Вы получаете товар по самой выгодной цене на рынке
+                    Украины. Гарантия качества Гарантируем возврат или обмен товара в кратчайшие сроки, если Вас
+                    что-либо не устроит. Оплата при получении Отправляем наложенным платежом (оплата при получении), Вы
+                    оплачиваете товар после осмотра в отделении Новой Почты или Укрпочты. </description>
+                <param name="Цвет">Коричневый</param>
+                <param name="Пол">Унисекс</param>
+                <param name="Материал">Искусственная кожа</param>
+                <param name="Глубина" unit="см">15</param>
+                <param name="Высота" unit="см">40</param>
+                <param name="Ширина" unit="см">30</param>
+                <param name="Состояние">Новое</param>
+            </offer>
+            <offer id="1022614846" available="true">
+                <url>https://kirs.com.ua/p1022614846-bolshoj-muzhskoj-gorodskoj.html</url>
+                <oldprice>850</oldprice>
+                <price>649</price>
+                <currencyId>UAH</currencyId>
+                <categoryId>43986659</categoryId>
+                <picture>https://images.ua.prom.st/1927606233_bolshoj-muzhskoj-gorodskoj.jpg</picture>
+                <picture>https://images.ua.prom.st/1927606235_bolshoj-muzhskoj-gorodskoj.jpg</picture>
+                <picture>https://images.ua.prom.st/1927610481_bolshoj-muzhskoj-gorodskoj.jpg</picture>
+                <picture>https://images.ua.prom.st/1927610480_bolshoj-muzhskoj-gorodskoj.jpg</picture>
+                <picture>https://images.ua.prom.st/1927606244_bolshoj-muzhskoj-gorodskoj.jpg</picture>
+                <picture>https://images.ua.prom.st/1927606242_bolshoj-muzhskoj-gorodskoj.jpg</picture>
+                <picture>https://images.ua.prom.st/1927606239_bolshoj-muzhskoj-gorodskoj.jpg</picture>
+                <picture>https://images.ua.prom.st/1927606240_bolshoj-muzhskoj-gorodskoj.jpg</picture>
+                <picture>https://images.ua.prom.st/1927606246_bolshoj-muzhskoj-gorodskoj.jpg</picture>
+                <pickup>false</pickup>
+                <delivery>true</delivery>
+                <name>Большой мужской городской рюкзак</name>
+                <vendorCode>356</vendorCode>
+                <description> Большой мужской городской рюкзак Характеристики: Материал: Плотная и высококачественная ПУ
+                    кожа (полиуретан) – это высокосортный продукт, изготовленный по особым технологиям, своими
+                    свойствами по качеству не уступающий натуральной коже Есть отделение для ноутбука (вмещает
+                    стандартный ноутбук диагональю до 15,6 дюйма включительно) Высота: 45 см; Ширина: 29 см; Глубина: 11
+                    см; Достоинства: Широкие и плотные плечевые лямки; Морозостойкость (не лопается и не трескается на
+                    морозе); Не имеет постороннего запаха (что существенно отличает данный материал от дешевого
+                    кожзама); Тактильно и визуально материал очень похож на натуральную кожу (имеет богатый внешний
+                    вид); Мягкий и эластичный материал (хорошо выдерживает нагрузку); Товар полностью соответствует
+                    фото, при необходимости отправим Вам живые фото товара на Viber. Отправка в день заказа Отправка с
+                    г. Днепр, в большинство городов Украины доставка 1 день, сегодня заказали - завтра получили
+                    (подробнее уточняйте у менеджера при оформлении заказа) Прямые поставки с фабрик Работаем на прямую
+                    с проверенными фабриками, поэтому Вы получаете товар по самой выгодной цене на рынке Украины.
+                    Гарантия качества Гарантируем возврат или обмен товара в кратчайшие сроки, если Вас что-либо не
+                    устроит. Оплата при получении Отправляем наложенным платежом (оплата при получении), Вы оплачиваете
+                    товар после осмотра в отделении Новой Почты или Укрпочты. </description>
+                <param name="Высота" unit="см">45</param>
+                <param name="Пол">Унисекс</param>
+                <param name="Состояние">Новое</param>
+                <param name="Ширина" unit="см">29</param>
+                <param name="Глубина" unit="см">11</param>
+                <param name="Материал">Искусственная кожа</param>
+                <param name="Цвет">Черный</param>
+            </offer>
+            <offer id="1023114560" available="true">
+                <url>https://kirs.com.ua/p1023114560-modnyj-gorodskoj-muzhskoj.html</url>
+                <oldprice>900</oldprice>
+                <price>699</price>
+                <currencyId>UAH</currencyId>
+                <categoryId>43986659</categoryId>
+                <picture>https://images.ua.prom.st/1928956270_modnyj-gorodskoj-muzhskoj.jpg</picture>
+                <picture>https://images.ua.prom.st/1928957913_modnyj-gorodskoj-muzhskoj.jpg</picture>
+                <picture>https://images.ua.prom.st/1928956230_modnyj-gorodskoj-muzhskoj.jpg</picture>
+                <picture>https://images.ua.prom.st/1928956231_modnyj-gorodskoj-muzhskoj.jpg</picture>
+                <picture>https://images.ua.prom.st/1928956233_modnyj-gorodskoj-muzhskoj.jpg</picture>
+                <picture>https://images.ua.prom.st/1928956234_modnyj-gorodskoj-muzhskoj.jpg</picture>
+                <picture>https://images.ua.prom.st/1928956272_modnyj-gorodskoj-muzhskoj.jpg</picture>
+                <picture>https://images.ua.prom.st/1928956273_modnyj-gorodskoj-muzhskoj.jpg</picture>
+                <picture>https://images.ua.prom.st/1928956274_modnyj-gorodskoj-muzhskoj.jpg</picture>
+                <pickup>false</pickup>
+                <delivery>true</delivery>
+                <name>Модный городской мужской рюкзак</name>
+                <vendorCode>412</vendorCode>
+                <description> Модный городской мужской рюкзак Характеристики: Материал: Плотная и высококачественная ПУ
+                    кожа (полиуретан) – это высокосортный продукт, изготовленный по особым технологиям, своими
+                    свойствами по качеству не уступающий натуральной коже Есть отделение для ноутбука (вмещает
+                    стандартный ноутбук диагональю до 15,6 дюйма включительно) Высота: 40 см; Ширина: 30 см; Глубина: 15
+                    см; Достоинства: Широкие и плотные плечевые лямки; Морозостойкость (не лопается и не трескается на
+                    морозе); Не имеет постороннего запаха (что существенно отличает данный материал от дешевого
+                    кожзама); Тактильно и визуально материал очень похож на натуральную кожу (имеет богатый внешний
+                    вид); Мягкий и эластичный материал (хорошо выдерживает нагрузку); Товар полностью соответствует
+                    фото, при необходимости отправим Вам живые фото товара на Viber. Отправка в день заказа Отправка с
+                    г. Днепр, в большинство городов Украины доставка 1 день, сегодня заказали - завтра получили
+                    (подробнее уточняйте у менеджера при оформлении заказа) Прямые поставки с фабрик Работаем на прямую
+                    с проверенными фабриками, поэтому Вы получаете товар по самой выгодной цене на рынке Украины.
+                    Гарантия качества Гарантируем возврат или обмен товара в кратчайшие сроки, если Вас что-либо не
+                    устроит. Оплата при получении Отправляем наложенным платежом (оплата при получении), Вы оплачиваете
+                    товар после осмотра в отделении Новой Почты или Укрпочты. </description>
+                <param name="Пол">Унисекс</param>
+                <param name="Материал">Искусственная кожа</param>
+                <param name="Глубина" unit="см">15</param>
+                <param name="Высота" unit="см">40</param>
+                <param name="Ширина" unit="см">30</param>
+                <param name="Состояние">Новое</param>
+            </offer>
+            <offer id="1023125314" available="true">
+                <url>https://kirs.com.ua/p1023125314-bolshoj-muzhskoj-ryukzak.html</url>
+                <price>900</price>
+                <currencyId>UAH</currencyId>
+                <categoryId>43986659</categoryId>
+                <picture>https://images.ua.prom.st/1928996842_bolshoj-muzhskoj-ryukzak.jpg</picture>
+                <picture>https://images.ua.prom.st/1928996839_bolshoj-muzhskoj-ryukzak.jpg</picture>
+                <picture>https://images.ua.prom.st/1928996835_bolshoj-muzhskoj-ryukzak.jpg</picture>
+                <picture>https://images.ua.prom.st/1928996836_bolshoj-muzhskoj-ryukzak.jpg</picture>
+                <picture>https://images.ua.prom.st/1928996837_bolshoj-muzhskoj-ryukzak.jpg</picture>
+                <picture>https://images.ua.prom.st/1928996838_bolshoj-muzhskoj-ryukzak.jpg</picture>
+                <picture>https://images.ua.prom.st/1928996841_bolshoj-muzhskoj-ryukzak.jpg</picture>
+                <picture>https://images.ua.prom.st/1928996844_bolshoj-muzhskoj-ryukzak.jpg</picture>
+                <picture>https://images.ua.prom.st/1928996846_bolshoj-muzhskoj-ryukzak.jpg</picture>
+                <picture>https://images.ua.prom.st/1928996848_bolshoj-muzhskoj-ryukzak.jpg</picture>
+                <pickup>false</pickup>
+                <delivery>true</delivery>
+                <name>Большой мужской рюкзак для ноутбука из экокожи</name>
+                <vendor>Фабричный Китай</vendor>
+                <vendorCode>357</vendorCode>
+                <country_of_origin>Китай</country_of_origin>
+                <description> Большой мужской рюкзак для ноутбука из экокожи Характеристики: Материал: Плотная и
+                    высококачественная эко кожа (полиуретан) – это высокосортный продукт, изготовленный по особым
+                    технологиям, своими свойствами по качеству не уступающий натуральной коже; Есть отделение для
+                    ноутбука (вмещает стандартный ноутбук диагональю до 15,6 дюйма включительно); Высота: 42 см; Ширина:
+                    33 см; Глубина: 14 см; Достоинства: Широкие и плотные плечевые лямки; Морозостойкость (не лопается и
+                    не трескается на морозе); Не имеет постороннего запаха (что существенно отличает данный материал от
+                    дешевого кожзама); Тактильно и визуально материал очень похож на натуральную кожу (имеет богатый
+                    внешний вид); Мягкий и эластичный материал (хорошо выдерживает нагрузку); Товар полностью
+                    соответствует фото, при необходимости отправим Вам живые фото товара на Viber. Отправка в день
+                    заказа Отправка с г. Днепр, в большинство городов Украины доставка 1 день, сегодня заказали - завтра
+                    получили (подробнее уточняйте у менеджера при оформлении заказа) Прямые поставки с фабрик Работаем
+                    на прямую с проверенными фабриками, поэтому Вы получаете товар по самой выгодной цене на рынке
+                    Украины. Гарантия качества Гарантируем возврат или обмен товара в кратчайшие сроки, если Вас
+                    что-либо не устроит. Оплата при получении Отправляем наложенным платежом (оплата при получении), Вы
+                    оплачиваете товар после осмотра в отделении Новой Почты или Укрпочты. </description>
+                <param name="Высота" unit="см">42</param>
+                <param name="Пол">Мужской</param>
+                <param name="Состояние">Новое</param>
+                <param name="Ширина" unit="см">33</param>
+                <param name="Глубина" unit="см">14</param>
+                <param name="Материал">Искусственная кожа</param>
+                <param name="Цвет">Черный</param>
+                <param name="Тип">Городской</param>
+                <param name="Вес" unit="г">800</param>
+                <param name="Возрастная группа" unit="">Универсальный</param>
+            </offer>
+            <offer id="1041014560" available="">
+                <url>https://kirs.com.ua/p1041014560-stilnyj-gorodskoj-ryukzak.html</url>
+                <price>880</price>
+                <currencyId>UAH</currencyId>
+                <categoryId>43986659</categoryId>
+                <picture>https://images.ua.prom.st/1976447250_stilnyj-gorodskoj-ryukzak.jpg</picture>
+                <picture>https://images.ua.prom.st/1976447243_stilnyj-gorodskoj-ryukzak.jpg</picture>
+                <picture>https://images.ua.prom.st/1976447244_stilnyj-gorodskoj-ryukzak.jpg</picture>
+                <picture>https://images.ua.prom.st/1976447245_stilnyj-gorodskoj-ryukzak.jpg</picture>
+                <picture>https://images.ua.prom.st/1976447246_stilnyj-gorodskoj-ryukzak.jpg</picture>
+                <picture>https://images.ua.prom.st/1976447248_stilnyj-gorodskoj-ryukzak.jpg</picture>
+                <picture>https://images.ua.prom.st/1976447247_stilnyj-gorodskoj-ryukzak.jpg</picture>
+                <picture>https://images.ua.prom.st/1976447249_stilnyj-gorodskoj-ryukzak.jpg</picture>
+                <picture>https://images.ua.prom.st/1976447251_stilnyj-gorodskoj-ryukzak.jpg</picture>
+                <pickup>false</pickup>
+                <delivery>true</delivery>
+                <name>Стильный городской рюкзак мужской</name>
+                <vendorCode>485</vendorCode>
+                <description> Стильный городской рюкзак мужской Характеристики: Материал: Плотная и высококачественная
+                    ПУ кожа (полиуретан) – это высокосортный продукт, изготовленный по особым технологиям, своими
+                    свойствами по качеству не уступающий натуральной коже Высота: 40 см; Ширина: 26 см; Глубина: 12 см;
+                    Достоинства: Широкие и плотные плечевые лямки; Морозостойкость (не лопается и не трескается на
+                    морозе); Не имеет постороннего запаха (что существенно отличает данный материал от дешевого
+                    кожзама); Тактильно и визуально материал очень похож на натуральную кожу (имеет богатый внешний
+                    вид); Мягкий и эластичный материал (хорошо выдерживает нагрузку); Товар полностью соответствует
+                    фото, при необходимости отправим Вам живые фото товара на Viber. Отправка в день заказа Отправка с
+                    г. Днепр, в большинство городов Украины доставка 1 день, сегодня заказали - завтра получили
+                    (подробнее уточняйте у менеджера при оформлении заказа) Прямые поставки с фабрик Работаем на прямую
+                    с проверенными фабриками, поэтому Вы получаете товар по самой выгодной цене на рынке Украины.
+                    Гарантия качества Гарантируем возврат или обмен товара в кратчайшие сроки, если Вас что-либо не
+                    устроит. Оплата при получении Отправляем наложенным платежом (оплата при получении), Вы оплачиваете
+                    товар после осмотра в отделении Новой Почты или Укрпочты. </description>
+                <param name="Пол">Мужской</param>
+                <param name="Материал">Искусственная кожа</param>
+                <param name="Состояние">Новое</param>
+                <param name="Глубина" unit="см">12</param>
+                <param name="Высота" unit="см">40</param>
+                <param name="Ширина" unit="см">26</param>
+                <param name="Цвет">Коричневый</param>
+                <param name="Вес" unit="г">800</param>
+                <param name="Тип">Городской</param>
+                <param name="Возрастная группа" unit="">Универсальный</param>
+            </offer>
+            <offer id="1050209288" available="">
+                <url>https://kirs.com.ua/p1050209288-muzhskoj-gorodskoj-ryukzak.html</url>
+                <price>900</price>
+                <currencyId>UAH</currencyId>
+                <categoryId>43986659</categoryId>
+                <picture>https://images.ua.prom.st/1998725329_muzhskoj-gorodskoj-ryukzak.jpg</picture>
+                <picture>https://images.ua.prom.st/1998725331_muzhskoj-gorodskoj-ryukzak.jpg</picture>
+                <picture>https://images.ua.prom.st/1998725324_muzhskoj-gorodskoj-ryukzak.jpg</picture>
+                <picture>https://images.ua.prom.st/1998725326_muzhskoj-gorodskoj-ryukzak.jpg</picture>
+                <picture>https://images.ua.prom.st/1998725327_muzhskoj-gorodskoj-ryukzak.jpg</picture>
+                <picture>https://images.ua.prom.st/1998725328_muzhskoj-gorodskoj-ryukzak.jpg</picture>
+                <picture>https://images.ua.prom.st/1998725330_muzhskoj-gorodskoj-ryukzak.jpg</picture>
+                <pickup>false</pickup>
+                <delivery>true</delivery>
+                <name>Мужской городской рюкзак</name>
+                <vendorCode>496</vendorCode>
+                <description> Мужской городской рюкзак Характеристики: Материал: Плотная и высококачественная ПУ кожа
+                    (полиуретан) – это высокосортный продукт, изготовленный по особым технологиям, своими свойствами по
+                    качеству не уступающий натуральной коже Высота: 41 см; Ширина: 28 см; Глубина: 18 см; Достоинства:
+                    Широкие и плотные плечевые лямки; Морозостойкость (не лопается и не трескается на морозе); Не имеет
+                    постороннего запаха (что существенно отличает данный материал от дешевого кожзама); Тактильно и
+                    визуально материал очень похож на натуральную кожу (имеет богатый внешний вид); Мягкий и эластичный
+                    материал (хорошо выдерживает нагрузку); Товар полностью соответствует фото, при необходимости
+                    отправим Вам живые фото товара на Viber. Отправка в день заказа Отправка с г. Днепр, в большинство
+                    городов Украины доставка 1 день, сегодня заказали - завтра получили (подробнее уточняйте у менеджера
+                    при оформлении заказа) Прямые поставки с фабрик Работаем на прямую с проверенными фабриками, поэтому
+                    Вы получаете товар по самой выгодной цене на рынке Украины. Гарантия качества Гарантируем возврат
+                    или обмен товара в кратчайшие сроки, если Вас что-либо не устроит. Оплата при получении Отправляем
+                    наложенным платежом (оплата при получении), Вы оплачиваете товар после осмотра в отделении Новой
+                    Почты или Укрпочты. </description>
+                <param name="Пол">Мужской</param>
+                <param name="Материал">Искусственная кожа</param>
+                <param name="Состояние">Новое</param>
+                <param name="Тип">Городской</param>
+                <param name="Глубина" unit="см">16</param>
+                <param name="Высота" unit="см">44</param>
+                <param name="Ширина" unit="см">30</param>
+                <param name="Вес" unit="г">800</param>
+                <param name="Цвет">Черный</param>
+                <param name="Возрастная группа" unit="">Универсальный</param>
+            </offer>
+            <offer id="1084303052" available="true" group_id="313987914">
+                <url>https://kirs.com.ua/p1084303052-modnaya-muzhskaya-sumka.html</url>
+                <oldprice>670</oldprice>
+                <price>599</price>
+                <currencyId>UAH</currencyId>
+                <categoryId>43986659</categoryId>
+                <picture>https://images.ua.prom.st/2092213557_modnaya-muzhskaya-sumka.jpg</picture>
+                <picture>https://images.ua.prom.st/2092213553_modnaya-muzhskaya-sumka.jpg</picture>
+                <picture>https://images.ua.prom.st/2092213555_modnaya-muzhskaya-sumka.jpg</picture>
+                <picture>https://images.ua.prom.st/2092213552_modnaya-muzhskaya-sumka.jpg</picture>
+                <picture>https://images.ua.prom.st/2092213551_modnaya-muzhskaya-sumka.jpg</picture>
+                <picture>https://images.ua.prom.st/2092213554_modnaya-muzhskaya-sumka.jpg</picture>
+                <picture>https://images.ua.prom.st/2092213556_modnaya-muzhskaya-sumka.jpg</picture>
+                <picture>https://images.ua.prom.st/2092213559_modnaya-muzhskaya-sumka.jpg</picture>
+                <picture>https://images.ua.prom.st/2092213558_modnaya-muzhskaya-sumka.jpg</picture>
+                <picture>https://images.ua.prom.st/2092213563_modnaya-muzhskaya-sumka.jpg</picture>
+                <pickup>false</pickup>
+                <delivery>true</delivery>
+                <name>Модная мужская сумка на плечо</name>
+                <vendorCode>502</vendorCode>
+                <description> Модная мужская сумка на плечо Характеристики: Материал: Плотная и высококачественная ПУ
+                    кожа (полиуретан) – это высокосортный продукт, изготовленный по особым технологиям, своими
+                    свойствами по качеству не уступающий натуральной коже В наличии цвета: черный/коричневый; Высота: 33
+                    см; Ширина: 21 см; Глубина: 10 см; Достоинства: Широкие и плотные плечевые лямки; Морозостойкость
+                    (не лопается и не трескается на морозе); Не имеет постороннего запаха (что существенно отличает
+                    данный материал от дешевого кожзама); Тактильно и визуально материал очень похож на натуральную кожу
+                    (имеет богатый внешний вид); Мягкий и эластичный материал (хорошо выдерживает нагрузку); Товар
+                    полностью соответствует фото, при необходимости отправим Вам живые фото товара на Viber. Отправка в
+                    день заказа Отправка с г. Днепр, в большинство городов Украины доставка 1 день, сегодня заказали -
+                    завтра получили (подробнее уточняйте у менеджера при оформлении заказа) Прямые поставки с фабрик
+                    Работаем на прямую с проверенными фабриками, поэтому Вы получаете товар по самой выгодной цене на
+                    рынке Украины. Гарантия качества Гарантируем возврат или обмен товара в кратчайшие сроки, если Вас
+                    что-либо не устроит. Оплата при получении Отправляем наложенным платежом (оплата при получении), Вы
+                    оплачиваете товар после осмотра в отделении Новой Почты или Укрпочты. </description>
+                <param name="Цвет">Коричневый</param>
+                <param name="Пол">Мужской</param>
+                <param name="Тип">Городской</param>
+                <param name="Материал">Искусственная кожа</param>
+                <param name="Глубина" unit="см">10</param>
+                <param name="Высота" unit="см">33</param>
+                <param name="Ширина" unit="см">21</param>
+                <param name="Вес" unit="г">800</param>
+                <param name="Состояние">Новое</param>
+                <param name="Возрастная группа" unit="">Универсальный</param>
+            </offer>
+            <offer id="1085246965" available="true" group_id="313987914">
+                <url>https://kirs.com.ua/p1085246965-modnaya-muzhskaya-sumka.html</url>
+                <oldprice>670</oldprice>
+                <price>599</price>
+                <currencyId>UAH</currencyId>
+                <categoryId>43986659</categoryId>
+                <picture>https://images.ua.prom.st/2092223037_modnaya-muzhskaya-sumka.jpg</picture>
+                <picture>https://images.ua.prom.st/2092223044_modnaya-muzhskaya-sumka.jpg</picture>
+                <picture>https://images.ua.prom.st/2092223035_modnaya-muzhskaya-sumka.jpg</picture>
+                <picture>https://images.ua.prom.st/2092223039_modnaya-muzhskaya-sumka.jpg</picture>
+                <picture>https://images.ua.prom.st/2092223040_modnaya-muzhskaya-sumka.jpg</picture>
+                <picture>https://images.ua.prom.st/2092223042_modnaya-muzhskaya-sumka.jpg</picture>
+                <picture>https://images.ua.prom.st/2092223043_modnaya-muzhskaya-sumka.jpg</picture>
+                <picture>https://images.ua.prom.st/2092223045_modnaya-muzhskaya-sumka.jpg</picture>
+                <pickup>false</pickup>
+                <delivery>true</delivery>
+                <name>Модная мужская сумка на плечо Черный</name>
+                <vendorCode>502</vendorCode>
+                <description />
+                <param name="Цвет">Черный</param>
+                <param name="Пол">Мужской</param>
+                <param name="Тип">Городской</param>
+                <param name="Материал">Искусственная кожа</param>
+                <param name="Глубина" unit="см">10</param>
+                <param name="Высота" unit="см">33</param>
+                <param name="Ширина" unit="см">21</param>
+                <param name="Вес" unit="г">800</param>
+                <param name="Состояние">Новое</param>
+            </offer>
+            <offer id="1085293435" available="">
+                <url>https://kirs.com.ua/p1085293435-vmestitelnyj-muzhskoj-ryukzak.html</url>
+                <price>880</price>
+                <currencyId>UAH</currencyId>
+                <categoryId>43986659</categoryId>
+                <picture>https://images.ua.prom.st/2092302407_vmestitelnyj-muzhskoj-ryukzak.jpg</picture>
+                <picture>https://images.ua.prom.st/2092302410_vmestitelnyj-muzhskoj-ryukzak.jpg</picture>
+                <picture>https://images.ua.prom.st/2092302409_vmestitelnyj-muzhskoj-ryukzak.jpg</picture>
+                <picture>https://images.ua.prom.st/2092302411_vmestitelnyj-muzhskoj-ryukzak.jpg</picture>
+                <picture>https://images.ua.prom.st/2092302408_vmestitelnyj-muzhskoj-ryukzak.jpg</picture>
+                <picture>https://images.ua.prom.st/2092302412_vmestitelnyj-muzhskoj-ryukzak.jpg</picture>
+                <picture>https://images.ua.prom.st/2092302413_vmestitelnyj-muzhskoj-ryukzak.jpg</picture>
+                <picture>https://images.ua.prom.st/2092302415_vmestitelnyj-muzhskoj-ryukzak.jpg</picture>
+                <picture>https://images.ua.prom.st/2092302418_vmestitelnyj-muzhskoj-ryukzak.jpg</picture>
+                <picture>https://images.ua.prom.st/2092302420_vmestitelnyj-muzhskoj-ryukzak.jpg</picture>
+                <pickup>false</pickup>
+                <delivery>true</delivery>
+                <name>Вместительный мужской рюкзак на шнурках</name>
+                <vendor>Фабричный Китай</vendor>
+                <vendorCode>512</vendorCode>
+                <country_of_origin>Китай</country_of_origin>
+                <description> Вместительный мужской рюкзак на шнурках Характеристики: Материал: Плотная и
+                    высококачественная ПУ кожа (полиуретан) – это высокосортный продукт, изготовленный по особым
+                    технологиям, своими свойствами по качеству не уступающий натуральной коже Высота: 39 см; Ширина: 29
+                    см; Глубина: 19 см; Достоинства: Широкие и плотные плечевые лямки; Морозостойкость (не лопается и не
+                    трескается на морозе); Не имеет постороннего запаха (что существенно отличает данный материал от
+                    дешевого кожзама); Тактильно и визуально материал очень похож на натуральную кожу (имеет богатый
+                    внешний вид); Мягкий и эластичный материал (хорошо выдерживает нагрузку); Товар полностью
+                    соответствует фото, при необходимости отправим Вам живые фото товара на Viber. Отправка в день
+                    заказа Отправка с г. Днепр, в большинство городов Украины доставка 1 день, сегодня заказали - завтра
+                    получили (подробнее уточняйте у менеджера при оформлении заказа) Прямые поставки с фабрик Работаем
+                    на прямую с проверенными фабриками, поэтому Вы получаете товар по самой выгодной цене на рынке
+                    Украины. Гарантия качества Гарантируем возврат или обмен товара в кратчайшие сроки, если Вас
+                    что-либо не устроит. Оплата при получении Отправляем наложенным платежом (оплата при получении), Вы
+                    оплачиваете товар после осмотра в отделении Новой Почты или Укрпочты. </description>
+                <param name="Пол">Унисекс</param>
+                <param name="Материал">Искусственная кожа</param>
+                <param name="Глубина" unit="см">19</param>
+                <param name="Высота" unit="см">39</param>
+                <param name="Ширина" unit="см">29</param>
+                <param name="Состояние">Новое</param>
+                <param name="Цвет">Черный</param>
+                <param name="Вес" unit="г">850</param>
+                <param name="Узоры и принты">Без узоров и принтов</param>
+                <param name="Тип" unit="">Рюкзак</param>
+                <param name="Возрастная группа" unit="">Универсальный</param>
+            </offer>
+            <offer id="1094085901" available="true">
+                <url>https://kirs.com.ua/p1094085901-muzhskoj-ryukzak-naturalnoj.html</url>
+                <oldprice>2800</oldprice>
+                <price>2350</price>
+                <currencyId>UAH</currencyId>
+                <categoryId>43986659</categoryId>
+                <picture>https://images.ua.prom.st/2114125541_muzhskoj-ryukzak-iz.jpg</picture>
+                <picture>https://images.ua.prom.st/2114125536_muzhskoj-ryukzak-iz.jpg</picture>
+                <picture>https://images.ua.prom.st/2114125537_muzhskoj-ryukzak-iz.jpg</picture>
+                <picture>https://images.ua.prom.st/2114125538_muzhskoj-ryukzak-iz.jpg</picture>
+                <picture>https://images.ua.prom.st/2114125539_muzhskoj-ryukzak-iz.jpg</picture>
+                <picture>https://images.ua.prom.st/2114125540_muzhskoj-ryukzak-iz.jpg</picture>
+                <picture>https://images.ua.prom.st/2116665675_muzhskoj-ryukzak-iz.jpg</picture>
+                <picture>https://images.ua.prom.st/2116665678_muzhskoj-ryukzak-iz.jpg</picture>
+                <picture>https://images.ua.prom.st/2116665680_muzhskoj-ryukzak-iz.jpg</picture>
+                <picture>https://images.ua.prom.st/2116665880_muzhskoj-ryukzak-iz.jpg</picture>
+                <pickup>false</pickup>
+                <delivery>true</delivery>
+                <name>Мужской рюкзак из натуральной кожи</name>
+                <vendorCode>517</vendorCode>
+                <description> Мужской рюкзак из натуральной кожи Характеристики: Материал: Натуральная кожа (Воловья
+                    кожа); USB разъем для подключения устройств; Высота: 42 см; Ширина: 32 см; Глубина: 12 см;
+                    Достоинства: Широкие и плотные плечевые лямки; Морозостойкость (не лопается и не трескается на
+                    морозе); Воловья кожа - пластичная, упругая, прочная кожа; Мягкий и эластичный материал (хорошо
+                    выдерживает нагрузку); Товар полностью соответствует фото, при необходимости отправим Вам живые фото
+                    товара на Viber. Отправка в день заказа Отправка с г. Днепр, в большинство городов Украины доставка
+                    1 день, сегодня заказали - завтра получили (подробнее уточняйте у менеджера при оформлении заказа)
+                    Прямые поставки с фабрик Работаем на прямую с проверенными фабриками, поэтому Вы получаете товар по
+                    самой выгодной цене на рынке Украины. Гарантия качества Гарантируем возврат или обмен товара в
+                    кратчайшие сроки, если Вас что-либо не устроит. Оплата при получении Отправляем наложенным платежом
+                    (оплата при получении), Вы оплачиваете товар после осмотра в отделении Новой Почты или Укрпочты.
+                </description>
+                <param name="Пол">Мужской</param>
+                <param name="Цвет">Черный</param>
+                <param name="Материал">Натуральная кожа</param>
+                <param name="Состояние">Новое</param>
+                <param name="Тип">Городской</param>
+                <param name="Глубина" unit="см">12</param>
+                <param name="Высота" unit="см">42</param>
+                <param name="Ширина" unit="см">32</param>
+                <param name="Вес" unit="г">1500</param>
+                <param name="Узоры и принты">Без узоров и принтов</param>
+                <param name="Возрастная группа" unit="">Универсальный</param>
+            </offer>
+            <offer id="1113472580" available="">
+                <url>https://kirs.com.ua/p1113472580-kozhanyj-muzhskoj-gorodskoj.html</url>
+                <price>2800</price>
+                <currencyId>UAH</currencyId>
+                <categoryId>43986659</categoryId>
+                <picture>https://images.ua.prom.st/2167276032_kozhanyj-muzhskoj-gorodskoj.jpg</picture>
+                <picture>https://images.ua.prom.st/2167275989_kozhanyj-muzhskoj-gorodskoj.jpg</picture>
+                <picture>https://images.ua.prom.st/2167276020_kozhanyj-muzhskoj-gorodskoj.jpg</picture>
+                <picture>https://images.ua.prom.st/2167276049_kozhanyj-muzhskoj-gorodskoj.jpg</picture>
+                <picture>https://images.ua.prom.st/2167276051_kozhanyj-muzhskoj-gorodskoj.jpg</picture>
+                <picture>https://images.ua.prom.st/2167276055_kozhanyj-muzhskoj-gorodskoj.jpg</picture>
+                <picture>https://images.ua.prom.st/2167276054_kozhanyj-muzhskoj-gorodskoj.jpg</picture>
+                <picture>https://images.ua.prom.st/2167276079_kozhanyj-muzhskoj-gorodskoj.jpg</picture>
+                <picture>https://images.ua.prom.st/2167276057_kozhanyj-muzhskoj-gorodskoj.jpg</picture>
+                <picture>https://images.ua.prom.st/2167275939_kozhanyj-muzhskoj-gorodskoj.jpg</picture>
+                <pickup>false</pickup>
+                <delivery>true</delivery>
+                <name>Кожаный мужской городской рюкзак</name>
+                <vendorCode>525</vendorCode>
+                <description> Кожаный мужской городской рюкзак Характеристики: Материал: Натуральная кожа (Воловья
+                    кожа); Высота: 37 см; Ширина: 27 см; Глубина: 11 см; Достоинства: Широкие и плотные плечевые лямки;
+                    Морозостойкость (не лопается и не трескается на морозе); Воловья кожа - пластичная, упругая, прочная
+                    кожа; Мягкий и эластичный материал (хорошо выдерживает нагрузку); Товар полностью соответствует
+                    фото, при необходимости отправим Вам живые фото товара на Viber. Отправка в день заказа Отправка с
+                    г. Днепр, в большинство городов Украины доставка 1 день, сегодня заказали - завтра получили
+                    (подробнее уточняйте у менеджера при оформлении заказа) Прямые поставки с фабрик Работаем на прямую
+                    с проверенными фабриками, поэтому Вы получаете товар по самой выгодной цене на рынке Украины.
+                    Гарантия качества Гарантируем возврат или обмен товара в кратчайшие сроки, если Вас что-либо не
+                    устроит. Оплата при получении Отправляем наложенным платежом (оплата при получении), Вы оплачиваете
+                    товар после осмотра в отделении Новой Почты или Укрпочты. </description>
+                <param name="Пол">Мужской</param>
+                <param name="Цвет">Черный</param>
+                <param name="Материал">Натуральная кожа</param>
+                <param name="Состояние">Новое</param>
+                <param name="Тип">Городской</param>
+                <param name="Глубина" unit="см">11</param>
+                <param name="Высота" unit="см">37</param>
+                <param name="Ширина" unit="см">27</param>
+                <param name="Вес" unit="г">1100</param>
+                <param name="Узоры и принты">Без узоров и принтов</param>
+                <param name="Возрастная группа" unit="">Универсальный</param>
+            </offer>
+            <offer id="1157064922" available="true">
+                <url>https://kirs.com.ua/p1157064922-bolshoj-muzhskoj-ryukzak.html</url>
+                <oldprice>950</oldprice>
+                <price>849</price>
+                <currencyId>UAH</currencyId>
+                <categoryId>43986659</categoryId>
+                <picture>https://images.ua.prom.st/2312063769_bolshoj-muzhskoj-ryukzak.jpg</picture>
+                <picture>https://images.ua.prom.st/2312063786_bolshoj-muzhskoj-ryukzak.jpg</picture>
+                <picture>https://images.ua.prom.st/2312063787_bolshoj-muzhskoj-ryukzak.jpg</picture>
+                <picture>https://images.ua.prom.st/2312063788_bolshoj-muzhskoj-ryukzak.jpg</picture>
+                <picture>https://images.ua.prom.st/2312063791_bolshoj-muzhskoj-ryukzak.jpg</picture>
+                <picture>https://images.ua.prom.st/2312063790_bolshoj-muzhskoj-ryukzak.jpg</picture>
+                <picture>https://images.ua.prom.st/2312063792_bolshoj-muzhskoj-ryukzak.jpg</picture>
+                <picture>https://images.ua.prom.st/2312063789_bolshoj-muzhskoj-ryukzak.jpg</picture>
+                <pickup>false</pickup>
+                <delivery>true</delivery>
+                <name>Большой мужской рюкзак экокожа</name>
+                <vendorCode>545</vendorCode>
+                <country_of_origin>Китай</country_of_origin>
+                <description> Большой мужской рюкзак экокожа Характеристики: Материал: Плотная и высококачественная ПУ
+                    кожа (полиуретан) – это высокосортный продукт, изготовленный по особым технологиям, своими
+                    свойствами по качеству не уступающий натуральной коже Высота: 37,5 см; Ширина: 29 см; Глубина: 10
+                    см; Достоинства: Широкие и плотные плечевые лямки; Морозостойкость (не лопается и не трескается на
+                    морозе); Не имеет постороннего запаха (что существенно отличает данный материал от дешевого
+                    кожзама); Тактильно и визуально материал очень похож на натуральную кожу (имеет богатый внешний
+                    вид); Мягкий и эластичный материал (хорошо выдерживает нагрузку); Товар полностью соответствует
+                    фото, при необходимости отправим Вам живые фото товара на Viber. Отправка в день заказа Отправка с
+                    г. Днепр, в большинство городов Украины доставка 1 день, сегодня заказали - завтра получили
+                    (подробнее уточняйте у менеджера при оформлении заказа) Прямые поставки с фабрик Работаем на прямую
+                    с проверенными фабриками, поэтому Вы получаете товар по самой выгодной цене на рынке Украины.
+                    Гарантия качества Гарантируем возврат или обмен товара в кратчайшие сроки, если Вас что-либо не
+                    устроит. Оплата при получении Отправляем наложенным платежом (оплата при получении), Вы оплачиваете
+                    товар после осмотра в отделении Новой Почты или Укрпочты. </description>
+                <param name="Пол">Мужской</param>
+                <param name="Цвет">Коричневый</param>
+                <param name="Материал">Искусственная кожа</param>
+                <param name="Состояние">Новое</param>
+                <param name="Тип">Городской</param>
+                <param name="Глубина" unit="см">10</param>
+                <param name="Высота" unit="см">37.5</param>
+                <param name="Ширина" unit="см">29</param>
+                <param name="Вес" unit="г">800</param>
+                <param name="Узоры и принты">Без узоров и принтов</param>
+                <param name="Возрастная группа" unit="">Универсальный</param>
+            </offer>
+            <offer id="1417730846" available="true" group_id="42401368">
+                <url>https://kirs.com.ua/p1417730846-vintazhnyj-muzhskoj-ryukzak.html</url>
+                <oldprice>800</oldprice>
+                <price>599</price>
+                <currencyId>UAH</currencyId>
+                <categoryId>43986659</categoryId>
+                <picture>https://images.ua.prom.st/3128223374_vintazhnyj-muzhskoj-ryukzak.jpg</picture>
+                <picture>https://images.ua.prom.st/3128223375_vintazhnyj-muzhskoj-ryukzak.jpg</picture>
+                <picture>https://images.ua.prom.st/3128223376_vintazhnyj-muzhskoj-ryukzak.jpg</picture>
+                <picture>https://images.ua.prom.st/3128223378_vintazhnyj-muzhskoj-ryukzak.jpg</picture>
+                <picture>https://images.ua.prom.st/3128223377_vintazhnyj-muzhskoj-ryukzak.jpg</picture>
+                <picture>https://images.ua.prom.st/3128223379_vintazhnyj-muzhskoj-ryukzak.jpg</picture>
+                <pickup>false</pickup>
+                <delivery>true</delivery>
+                <name>Винтажный мужской рюкзак эко кожа Черный</name>
+                <vendorCode>193</vendorCode>
+                <country_of_origin>Китай</country_of_origin>
+                <description />
+                <param name="Цвет">Черный</param>
+                <param name="Пол">Унисекс</param>
+                <param name="Материал">Искусственная кожа</param>
+                <param name="Глубина" unit="см">15</param>
+                <param name="Высота" unit="см">40</param>
+                <param name="Ширина" unit="см">30</param>
+                <param name="Состояние">Новое</param>
+            </offer>
+            <offer id="1424391884" available="true">
+                <url>https://kirs.com.ua/p1424391884-modnyj-muzhskoj-gorodskoj.html</url>
+                <oldprice>1150</oldprice>
+                <price>899</price>
+                <currencyId>UAH</currencyId>
+                <categoryId>43986659</categoryId>
+                <picture>https://images.ua.prom.st/3149955463_modnyj-muzhskoj-gorodskoj.jpg</picture>
+                <picture>https://images.ua.prom.st/3149955385_modnyj-muzhskoj-gorodskoj.jpg</picture>
+                <picture>https://images.ua.prom.st/3149955417_modnyj-muzhskoj-gorodskoj.jpg</picture>
+                <picture>https://images.ua.prom.st/3149955388_modnyj-muzhskoj-gorodskoj.jpg</picture>
+                <picture>https://images.ua.prom.st/3149955425_modnyj-muzhskoj-gorodskoj.jpg</picture>
+                <picture>https://images.ua.prom.st/3149955351_modnyj-muzhskoj-gorodskoj.jpg</picture>
+                <picture>https://images.ua.prom.st/3149955459_modnyj-muzhskoj-gorodskoj.jpg</picture>
+                <picture>https://images.ua.prom.st/3149955448_modnyj-muzhskoj-gorodskoj.jpg</picture>
+                <picture>https://images.ua.prom.st/3149955464_modnyj-muzhskoj-gorodskoj.jpg</picture>
+                <picture>https://images.ua.prom.st/3149955413_modnyj-muzhskoj-gorodskoj.jpg</picture>
+                <pickup>false</pickup>
+                <delivery>true</delivery>
+                <name>Модный мужской городской рюкзак, повседневный вместительный рюкзак на плечи для мужчин
+                    качественный</name>
+                <vendorCode>676</vendorCode>
+                <description>Модный мужской городской рюкзак, повседневный вместительный рюкзак на плечи для мужчин
+                    качественный Храктеристики: Материал: качественная и плотная экокожа премиум качества; Высота: 41
+                    см; Ширина по основанию: 29 см; Глубина по основанию: 10 см; Качественная металлическая фурнитура.
+                    Оплата и доставка Весь товар в наличии на нашем складе, отправляем Новой Почтой, УкрПочтой. Отправку
+                    заказов производим максимально быстро, чтобы Вы как можно скорее могли получить свой заказ. Способы
+                    оплаты: ПромОплата, Предоплата на карту ПриватБанка, Наложенный платеж (ОПЛАТА ПРИ ПОЛУЧЕНИИ).
+                </description>
+                <param name="Цвет">Черный</param>
+                <param name="Пол">Мужской</param>
+                <param name="Тип">Городской</param>
+                <param name="Возрастная группа">Взрослая</param>
+                <param name="Материал">Искусственная кожа</param>
+                <param name="Глубина" unit="см">10</param>
+                <param name="Высота" unit="см">41</param>
+                <param name="Ширина" unit="см">29</param>
+                <param name="Вес" unit="г">900</param>
+                <param name="Узоры и принты">Клетка</param>
+                <param name="Состояние">Новое</param>
+            </offer>
+            <offer id="1443113905" available="true">
+                <url>https://kirs.com.ua/p1443113905-muzhskoj-gorodskoj-ryukzak.html</url>
+                <oldprice>950</oldprice>
+                <price>699</price>
+                <currencyId>UAH</currencyId>
+                <categoryId>43986659</categoryId>
+                <picture>https://images.ua.prom.st/3211309389_muzhskoj-gorodskoj-ryukzak.jpg</picture>
+                <picture>https://images.ua.prom.st/3211309388_muzhskoj-gorodskoj-ryukzak.jpg</picture>
+                <picture>https://images.ua.prom.st/3211309392_muzhskoj-gorodskoj-ryukzak.jpg</picture>
+                <picture>https://images.ua.prom.st/3211309384_muzhskoj-gorodskoj-ryukzak.jpg</picture>
+                <picture>https://images.ua.prom.st/3211309385_muzhskoj-gorodskoj-ryukzak.jpg</picture>
+                <picture>https://images.ua.prom.st/3211309390_muzhskoj-gorodskoj-ryukzak.jpg</picture>
+                <picture>https://images.ua.prom.st/3211309387_muzhskoj-gorodskoj-ryukzak.jpg</picture>
+                <picture>https://images.ua.prom.st/3211309386_muzhskoj-gorodskoj-ryukzak.jpg</picture>
+                <picture>https://images.ua.prom.st/3211309391_muzhskoj-gorodskoj-ryukzak.jpg</picture>
+                <picture>https://images.ua.prom.st/3211309393_muzhskoj-gorodskoj-ryukzak.jpg</picture>
+                <pickup>false</pickup>
+                <delivery>true</delivery>
+                <name>Мужской городской рюкзак эко кожа черный матовый, классический рюкзак для мужчин качественный и
+                    стильный</name>
+                <vendor>Eton</vendor>
+                <vendorCode>718</vendorCode>
+                <country_of_origin>Китай</country_of_origin>
+                <description>Мужской городской рюкзак эко кожа черный матовый, классический рюкзак для мужчин
+                    качественный и стильный, модный молодежный портфель на плечи Храктеристики: Материал: эко кожа
+                    премиум; Металлическая фурнитура; Высота: 44 см; Ширина: 29 см; Глубина: 13 см; Оплата и доставка
+                    Весь товар в наличии на нашем складе, отправляем Новой Почтой, УкрПочтой. Отправку заказов
+                    производим максимально быстро, чтобы Вы как можно скорее могли получить свой заказ. Способы оплаты:
+                    ПромОплата, Предоплата на карту ПриватБанка, Наложенный платеж (ОПЛАТА ПРИ ПОЛУЧЕНИИ).
+                </description>
+                <param name="Цвет">Черный</param>
+                <param name="Пол">Мужской</param>
+                <param name="Тип">Городской</param>
+                <param name="Возрастная группа">Взрослая</param>
+                <param name="Материал">Экокожа</param>
+                <param name="Глубина" unit="см">13</param>
+                <param name="Высота" unit="см">44</param>
+                <param name="Ширина" unit="см">29</param>
+                <param name="Вес" unit="г">900</param>
+                <param name="Узоры и принты">Без узоров и принтов</param>
+                <param name="Состояние">Новое</param>
+                <param name="Тип назначения" unit="">Мужской городской рюкзак эко кожа черный матовый, классический
+                рюкзак для мужчин качественный и стильный</param>
+            </offer>
+        </offers>
+    </shop>
+</yml_catalog>

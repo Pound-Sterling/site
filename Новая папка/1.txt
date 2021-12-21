@@ -1,0 +1,26 @@
+INSERT INTO `myshop`.`products` (`id`, `category_id`, `name`, `description`, `price`, `image`, `status`, `code`) VALUES (
+NULL, 
+'3', 
+'Модный мужской городской рюкзак', 
+'Модный мужской городской рюкзак Материал: Плотная и высококачественная ПУ кожа
+                    (полиуретан) – это высокосортный продукт, изготовленный по особым технологиям, своими свойствами по
+                    качеству не уступающий натуральной коже Есть отделение для ноутбука (вмещает стандартный ноутбук
+                    диагональю до 15,6 дюйма включительно) В наличии цвета: черный/коричневый; Высота: 45 см; Ширина: 30
+                    см; Глубина: 15 см; Если у Вас остались какие-либо вопросы, то свяжитесь с нами или оставьте свои
+                    контакты и мы сами свяжемся с Вами и уточним все детали! Пожалуйста, перед оформлением заказа,
+                    прочитайте внимательно условия доставки и оплаты и ознакомьтесь с тарифами на доставку в разделе
+                    "Доставка и оплата" ', 
+'899',
+'https://images.ua.prom.st/2318566924_modnyj-muzhskoj-gorodskoj.jpg
+https://images.ua.prom.st/2318566919_modnyj-muzhskoj-gorodskoj.jpg
+https://images.ua.prom.st/2318566918_modnyj-muzhskoj-gorodskoj.jpg
+https://images.ua.prom.st/2318566921_modnyj-muzhskoj-gorodskoj.jpg
+https://images.ua.prom.st/2318566923_modnyj-muzhskoj-gorodskoj.jpg
+https://images.ua.prom.st/2318566922_modnyj-muzhskoj-gorodskoj.jpg
+https://images.ua.prom.st/2318566925_modnyj-muzhskoj-gorodskoj.jpg
+https://images.ua.prom.st/2318566926_modnyj-muzhskoj-gorodskoj.jpg
+https://images.ua.prom.st/2318566927_modnyj-muzhskoj-gorodskoj.jpg
+https://images.ua.prom.st/2318566928_modnyj-muzhskoj-gorodskoj.jpg',
+'1',
+'245'
+);
